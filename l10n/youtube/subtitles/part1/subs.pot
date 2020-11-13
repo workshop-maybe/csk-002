@@ -1,17 +1,11 @@
-#. extracted from /tmp/Fw0oWA2jszg_0_en.srt
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-13 15:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.5.0\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: youtube-CSK002-part1\n"
+"Language: en\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
@@ -4442,3 +4436,4 @@ msgstr ""
 #: 00:31:46.558--%3E00:32:01.038
 msgid "for centuries now"
 msgstr ""
+
