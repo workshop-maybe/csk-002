@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: youtube-CSK002-part1\n"
-"Language: en\n"
+"Language: es\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
