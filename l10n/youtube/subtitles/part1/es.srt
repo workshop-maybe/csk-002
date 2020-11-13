@@ -1,0 +1,3531 @@
+﻿1
+00:00:00,560 --> 00:00:04,240
+Hola, mi nombre es James y esto es un
+
+2
+00:00:02,720 --> 00:00:06,560
+Cardano Starter Kit
+
+3
+00:00:04,240 --> 00:00:08,559
+Gracias por echarnos un vistazo, El nombre de
+
+4
+00:00:06,559 --> 00:00:10,638
+este starter kit es:
+
+5
+00:00:08,558 --> 00:00:12,558
+"Cómo hablar de Cardano con tu familia y amigos"
+
+6
+00:00:10,638 --> 00:00:14,079
+y si estás pensando "wow" eso es
+
+7
+00:00:12,558 --> 00:00:16,239
+un título bastante presuntuoso
+
+8
+00:00:14,080 --> 00:00:17,278
+estás en lo correcto.
+
+9
+00:00:16,239 --> 00:00:20,159
+Quiero dejar algo claro:
+
+10
+00:00:17,278 --> 00:00:22,160
+No soy un experto en esto, estoy con vosotros
+
+11
+00:00:20,160 --> 00:00:23,679
+en esta aventura y me gustaría encontrar la forma
+
+12
+00:00:22,160 --> 00:00:26,800
+de mejorar en ello.
+
+13
+00:00:23,679 --> 00:00:28,559
+Y si este starter kit sale bien,
+
+14
+00:00:26,800 --> 00:00:30,640
+vas a tener tus propias ideas
+
+15
+00:00:28,559 --> 00:00:31,919
+al final de él sobre cómo hablar
+
+16
+00:00:30,640 --> 00:00:34,079
+sobre Cardano
+
+17
+00:00:31,920 --> 00:00:35,200
+para solucionar problemas diferentes
+
+18
+00:00:34,079 --> 00:00:37,520
+a los que yo voy a plantear.
+
+19
+00:00:35,200 --> 00:00:39,120
+Okay,
+
+20
+00:00:37,520 --> 00:00:40,719
+estamos en una aventura juntos
+
+21
+00:00:39,119 --> 00:00:42,238
+i really just want to kind of help get
+
+22
+00:00:40,719 --> 00:00:45,439
+conversations going
+
+23
+00:00:42,238 --> 00:00:46,878
+and then get out of the way now i happen
+
+24
+00:00:45,439 --> 00:00:50,320
+to be a teacher
+
+25
+00:00:46,878 --> 00:00:53,439
+we all have our own domains of expertise
+
+26
+00:00:50,320 --> 00:00:55,039
+mine is education and so what i want to
+
+27
+00:00:53,439 --> 00:00:58,399
+do to start this
+
+28
+00:00:55,039 --> 00:01:00,079
+starter kit is is share a few education
+
+29
+00:00:58,399 --> 00:01:01,759
+terms with you if you're not a teacher
+
+30
+00:01:00,079 --> 00:01:02,878
+maybe you don't think about things in
+
+31
+00:01:01,759 --> 00:01:05,118
+these terms
+
+32
+00:01:02,878 --> 00:01:06,798
+but i'm hoping that by throwing these
+
+33
+00:01:05,118 --> 00:01:09,118
+ideas out there
+
+34
+00:01:06,799 --> 00:01:10,400
+these might prompt some line of thinking
+
+35
+00:01:09,118 --> 00:01:12,478
+in your mind
+
+36
+00:01:10,400 --> 00:01:14,080
+and then you can pursue that so i'm
+
+37
+00:01:12,478 --> 00:01:16,000
+going to share these terms
+
+38
+00:01:14,079 --> 00:01:17,599
+don't worry too much about remembering
+
+39
+00:01:16,000 --> 00:01:20,400
+what the words are
+
+40
+00:01:17,599 --> 00:01:22,239
+i just want to get some ideas out there
+
+41
+00:01:20,400 --> 00:01:24,960
+so that we can then use them
+
+42
+00:01:22,239 --> 00:01:26,000
+as we move through this starter kit if
+
+43
+00:01:24,959 --> 00:01:28,798
+you find any of these
+
+44
+00:01:26,000 --> 00:01:29,759
+ideas particularly useful i'm providing
+
+45
+00:01:28,799 --> 00:01:32,240
+some links
+
+46
+00:01:29,759 --> 00:01:34,159
+for following up but you can also join
+
+47
+00:01:32,239 --> 00:01:35,359
+our conversation in the gimbal labs
+
+48
+00:01:34,159 --> 00:01:36,560
+discord
+
+49
+00:01:35,359 --> 00:01:38,959
+if you want to continue these
+
+50
+00:01:36,560 --> 00:01:42,000
+conversations ask new questions
+
+51
+00:01:38,959 --> 00:01:44,879
+ask for further resources and so on
+
+52
+00:01:42,000 --> 00:01:46,478
+so let's get going project-based
+
+53
+00:01:44,879 --> 00:01:49,039
+learning is something that we're really
+
+54
+00:01:46,478 --> 00:01:51,280
+big on at gimbal labs and at workshop
+
+55
+00:01:49,040 --> 00:01:52,320
+maybe and it's just based on this idea
+
+56
+00:01:51,280 --> 00:01:55,599
+that people learn
+
+57
+00:01:52,319 --> 00:01:57,679
+best by doing things
+
+58
+00:01:55,599 --> 00:01:58,798
+similar to project-based learning is
+
+59
+00:01:57,680 --> 00:02:01,200
+problem-based
+
+60
+00:01:58,799 --> 00:02:03,200
+learning we learn best when we have a
+
+61
+00:02:01,200 --> 00:02:06,399
+chance to figure things out
+
+62
+00:02:03,200 --> 00:02:09,118
+for ourselves pbl
+
+63
+00:02:06,399 --> 00:02:10,080
+is an acronym that's a really convenient
+
+64
+00:02:09,118 --> 00:02:12,560
+catch-all
+
+65
+00:02:10,080 --> 00:02:13,680
+for both of these terms because they're
+
+66
+00:02:12,560 --> 00:02:16,159
+connected
+
+67
+00:02:13,680 --> 00:02:17,200
+when we work on projects whether it's a
+
+68
+00:02:16,159 --> 00:02:21,039
+home improvement
+
+69
+00:02:17,199 --> 00:02:23,280
+project or a business project
+
+70
+00:02:21,039 --> 00:02:24,318
+anything we might want to accomplish out
+
+71
+00:02:23,280 --> 00:02:26,800
+in the world
+
+72
+00:02:24,318 --> 00:02:28,799
+we run into problems this is what
+
+73
+00:02:26,800 --> 00:02:30,640
+software development is all about right
+
+74
+00:02:28,800 --> 00:02:32,560
+we run into problems that we then have
+
+75
+00:02:30,639 --> 00:02:34,799
+to figure out new things
+
+76
+00:02:32,560 --> 00:02:36,159
+and that's how we develop expertise so
+
+77
+00:02:34,800 --> 00:02:38,480
+there's always this give and take
+
+78
+00:02:36,159 --> 00:02:41,359
+between the project i want to complete
+
+79
+00:02:38,479 --> 00:02:43,518
+the problems that emerge and how i learn
+
+80
+00:02:41,360 --> 00:02:45,920
+from both of those things
+
+81
+00:02:43,519 --> 00:02:46,719
+so when i use the acronym pbl i'm kind
+
+82
+00:02:45,919 --> 00:02:49,039
+of talking about
+
+83
+00:02:46,719 --> 00:02:50,159
+both of these things at the same time
+
+84
+00:02:49,039 --> 00:02:52,400
+now
+
+85
+00:02:50,159 --> 00:02:54,479
+whether we're talking about students or
+
+86
+00:02:52,400 --> 00:02:56,560
+just grown-ups in the real world trying
+
+87
+00:02:54,479 --> 00:02:59,679
+to accomplish real things
+
+88
+00:02:56,560 --> 00:03:01,598
+pbl gives us the opportunity to practice
+
+89
+00:02:59,680 --> 00:03:04,959
+collaboration
+
+90
+00:03:01,598 --> 00:03:06,719
+and exec executive functioning okay
+
+91
+00:03:04,959 --> 00:03:09,199
+executive functioning is just planning
+
+92
+00:03:06,719 --> 00:03:11,199
+and execution how do you set priorities
+
+93
+00:03:09,199 --> 00:03:12,799
+how do you make plans what do you need
+
+94
+00:03:11,199 --> 00:03:15,598
+to do to get the job done
+
+95
+00:03:12,800 --> 00:03:16,319
+and of course uh to solve most great
+
+96
+00:03:15,598 --> 00:03:17,840
+problems
+
+97
+00:03:16,318 --> 00:03:20,639
+you need a team you need to be able to
+
+98
+00:03:17,840 --> 00:03:23,360
+collaborate with people
+
+99
+00:03:20,639 --> 00:03:25,598
+teachers are always paying attention to
+
+100
+00:03:23,360 --> 00:03:28,480
+formative assessment this is not like
+
+101
+00:03:25,598 --> 00:03:29,518
+taking the sats or a big exam at the end
+
+102
+00:03:28,479 --> 00:03:31,598
+of the year
+
+103
+00:03:29,519 --> 00:03:33,439
+formative assessment happens all the
+
+104
+00:03:31,598 --> 00:03:35,439
+time and the point is
+
+105
+00:03:33,439 --> 00:03:36,560
+never to call students out on what they
+
+106
+00:03:35,439 --> 00:03:39,439
+do or don't know
+
+107
+00:03:36,560 --> 00:03:40,719
+it's for teachers to find out what
+
+108
+00:03:39,439 --> 00:03:43,199
+students know
+
+109
+00:03:40,719 --> 00:03:44,000
+so that teachers can help their students
+
+110
+00:03:43,199 --> 00:03:47,598
+take the next
+
+111
+00:03:44,000 --> 00:03:48,400
+step the teacher's responsibility then
+
+112
+00:03:47,598 --> 00:03:51,439
+is to provide
+
+113
+00:03:48,400 --> 00:03:53,120
+scaffolding based on what i know about
+
+114
+00:03:51,439 --> 00:03:55,840
+these learners
+
+115
+00:03:53,120 --> 00:03:58,000
+how can i help them understand what
+
+116
+00:03:55,840 --> 00:04:01,039
+their next few steps might be
+
+117
+00:03:58,000 --> 00:04:03,680
+i'm going to provide scaffolding to help
+
+118
+00:04:01,039 --> 00:04:06,158
+people along their journey of course
+
+119
+00:04:03,680 --> 00:04:09,200
+this doesn't happen all at once
+
+120
+00:04:06,158 --> 00:04:11,679
+but if we work hard at it and if we
+
+121
+00:04:09,199 --> 00:04:13,039
+iterate between formative assessment and
+
+122
+00:04:11,680 --> 00:04:15,280
+scaffolding
+
+123
+00:04:13,039 --> 00:04:17,039
+what we're going to eventually do is
+
+124
+00:04:15,280 --> 00:04:19,439
+provide people with more
+
+125
+00:04:17,040 --> 00:04:21,040
+agency and that's really my number one
+
+126
+00:04:19,439 --> 00:04:25,040
+goal as a teacher
+
+127
+00:04:21,040 --> 00:04:25,919
+anytime i teach i judge the lesson to be
+
+128
+00:04:25,040 --> 00:04:29,199
+successful
+
+129
+00:04:25,918 --> 00:04:31,519
+if people go away from it having more
+
+130
+00:04:29,199 --> 00:04:34,000
+ability to make their own decisions
+
+131
+00:04:31,519 --> 00:04:34,959
+more ability to define what their next
+
+132
+00:04:34,000 --> 00:04:37,759
+steps are
+
+133
+00:04:34,959 --> 00:04:38,638
+ideas that they're really excited to
+
+134
+00:04:37,759 --> 00:04:42,720
+follow through
+
+135
+00:04:38,639 --> 00:04:44,160
+on that's what learning is all about
+
+136
+00:04:42,720 --> 00:04:45,919
+so wrapped up in this is this
+
+137
+00:04:44,160 --> 00:04:49,439
+distinction between intrinsic and
+
+138
+00:04:45,918 --> 00:04:52,478
+extrinsic motivation right grades are
+
+139
+00:04:49,439 --> 00:04:54,560
+extrinsic motivators kind of like the
+
+140
+00:04:52,478 --> 00:04:55,199
+token value of cardano if you think
+
+141
+00:04:54,560 --> 00:04:57,918
+about it
+
+142
+00:04:55,199 --> 00:04:59,439
+right extrinsic motivation these these
+
+143
+00:04:57,918 --> 00:05:02,319
+these carrots and sticks
+
+144
+00:04:59,439 --> 00:05:03,519
+out in the world versus intrinsic
+
+145
+00:05:02,319 --> 00:05:06,000
+motivation
+
+146
+00:05:03,519 --> 00:05:06,639
+which is the feeling that oh i can't
+
+147
+00:05:06,000 --> 00:05:09,439
+resist
+
+148
+00:05:06,639 --> 00:05:10,560
+doing the next thing i want to see this
+
+149
+00:05:09,439 --> 00:05:13,439
+project through
+
+150
+00:05:10,560 --> 00:05:15,199
+i want to solve this problem because it
+
+151
+00:05:13,439 --> 00:05:17,680
+matters to me
+
+152
+00:05:15,199 --> 00:05:19,360
+and finally one more distinction between
+
+153
+00:05:17,680 --> 00:05:20,800
+teaching and learning i touched on this
+
+154
+00:05:19,360 --> 00:05:24,639
+a little bit
+
+155
+00:05:20,800 --> 00:05:27,439
+but the focus for all teachers has to be
+
+156
+00:05:24,639 --> 00:05:28,720
+how much are people learning not how
+
+157
+00:05:27,439 --> 00:05:31,839
+smart do i sound
+
+158
+00:05:28,720 --> 00:05:32,720
+not how many of my ideas can i throw out
+
+159
+00:05:31,839 --> 00:05:34,879
+there to the world
+
+160
+00:05:32,720 --> 00:05:36,320
+but how much are people really
+
+161
+00:05:34,879 --> 00:05:38,879
+understanding
+
+162
+00:05:36,319 --> 00:05:40,560
+and this is an ongoing thing in teaching
+
+163
+00:05:38,879 --> 00:05:42,959
+if you walk into any school
+
+164
+00:05:40,560 --> 00:05:44,720
+you're going to see teachers on opposite
+
+165
+00:05:42,959 --> 00:05:45,839
+ends and everywhere in between of this
+
+166
+00:05:44,720 --> 00:05:47,600
+continuum
+
+167
+00:05:45,839 --> 00:05:50,079
+between thinking teaching is about them
+
+168
+00:05:47,600 --> 00:05:53,600
+standing up and delivering content
+
+169
+00:05:50,079 --> 00:05:55,599
+and students actually understanding
+
+170
+00:05:53,600 --> 00:05:57,120
+things i've had a lot of good arguments
+
+171
+00:05:55,600 --> 00:05:59,120
+about this over the years but i come
+
+172
+00:05:57,120 --> 00:06:02,240
+down pretty strongly on the end
+
+173
+00:05:59,120 --> 00:06:02,879
+that it's not about me it's about how
+
+174
+00:06:02,240 --> 00:06:06,240
+much
+
+175
+00:06:02,879 --> 00:06:08,000
+other people can understand you can let
+
+176
+00:06:06,240 --> 00:06:11,759
+me know if it's working for this starter
+
+177
+00:06:08,000 --> 00:06:14,319
+kit okay i encourage your participation
+
+178
+00:06:11,759 --> 00:06:15,520
+so to summarize teaching is only
+
+179
+00:06:14,319 --> 00:06:18,080
+effective
+
+180
+00:06:15,519 --> 00:06:19,038
+if it leads to learning and as teachers
+
+181
+00:06:18,079 --> 00:06:20,719
+our role
+
+182
+00:06:19,038 --> 00:06:22,159
+is to think about the people that we're
+
+183
+00:06:20,720 --> 00:06:24,319
+trying to connect with
+
+184
+00:06:22,160 --> 00:06:25,600
+and find the right projects find the
+
+185
+00:06:24,319 --> 00:06:27,680
+right problems
+
+186
+00:06:25,600 --> 00:06:29,439
+find the right metaphors and find the
+
+187
+00:06:27,680 --> 00:06:32,319
+right stories to tell
+
+188
+00:06:29,439 --> 00:06:33,680
+so we can help people take the next step
+
+189
+00:06:32,319 --> 00:06:35,919
+on their journey
+
+190
+00:06:33,680 --> 00:06:38,720
+understand the next thing that they
+
+191
+00:06:35,918 --> 00:06:42,478
+didn't understand before
+
+192
+00:06:38,720 --> 00:06:45,039
+so let's apply this to cardano
+
+193
+00:06:42,478 --> 00:06:46,639
+over the last few months i've really
+
+194
+00:06:45,038 --> 00:06:48,639
+started to recognize
+
+195
+00:06:46,639 --> 00:06:50,960
+that preparing for a conversation with
+
+196
+00:06:48,639 --> 00:06:53,840
+my friends or with my family
+
+197
+00:06:50,959 --> 00:06:55,758
+is similar to how i plan to teach a
+
+198
+00:06:53,839 --> 00:06:57,679
+lesson about high school algebra
+
+199
+00:06:55,759 --> 00:06:59,439
+okay and so let's think about how a few
+
+200
+00:06:57,680 --> 00:07:01,439
+of these things apply
+
+201
+00:06:59,439 --> 00:07:03,279
+to planning for conversations about
+
+202
+00:07:01,439 --> 00:07:05,360
+cardano
+
+203
+00:07:03,279 --> 00:07:06,879
+first of all planning and conversations
+
+204
+00:07:05,360 --> 00:07:08,400
+are iterative it's not like you go from
+
+205
+00:07:06,879 --> 00:07:09,279
+planning then you have a conversation
+
+206
+00:07:08,399 --> 00:07:11,598
+then it's done
+
+207
+00:07:09,279 --> 00:07:13,038
+right any conversation is going to raise
+
+208
+00:07:11,598 --> 00:07:15,120
+new questions for you
+
+209
+00:07:13,038 --> 00:07:16,639
+it's going to help you recognize things
+
+210
+00:07:15,120 --> 00:07:17,680
+that you wish you were better at
+
+211
+00:07:16,639 --> 00:07:18,639
+explaining
+
+212
+00:07:17,680 --> 00:07:21,199
+so you're gonna have a chance to
+
+213
+00:07:18,639 --> 00:07:24,560
+practice that okay
+
+214
+00:07:21,199 --> 00:07:28,319
+it's really important to choose content
+
+215
+00:07:24,560 --> 00:07:30,879
+selectively there are so many
+
+216
+00:07:28,319 --> 00:07:32,080
+opportunities there's so many articles
+
+217
+00:07:30,879 --> 00:07:35,598
+blog posts
+
+218
+00:07:32,079 --> 00:07:39,120
+podcasts videos out there where people
+
+219
+00:07:35,598 --> 00:07:42,560
+talk about blockchain and cardano
+
+220
+00:07:39,120 --> 00:07:44,879
+don't just fill up on this content
+
+221
+00:07:42,560 --> 00:07:46,560
+make sure you have a chance to digest
+
+222
+00:07:44,879 --> 00:07:49,680
+what you're consuming
+
+223
+00:07:46,560 --> 00:07:50,478
+make time to think and reflect on the
+
+224
+00:07:49,680 --> 00:07:53,199
+ideas
+
+225
+00:07:50,478 --> 00:07:55,439
+that you learn and while going back to
+
+226
+00:07:53,199 --> 00:07:58,000
+this idea of executive functioning right
+
+227
+00:07:55,439 --> 00:08:00,319
+don't just watch everything you don't
+
+228
+00:07:58,000 --> 00:08:03,519
+have to keep up on everything
+
+229
+00:08:00,319 --> 00:08:05,680
+choose carefully what's relevant to you
+
+230
+00:08:03,519 --> 00:08:08,399
+to the people you're trying to connect
+
+231
+00:08:05,680 --> 00:08:11,038
+with our community is growing
+
+232
+00:08:08,399 --> 00:08:12,318
+right trying to keep up on every podcast
+
+233
+00:08:11,038 --> 00:08:14,399
+is really hard
+
+234
+00:08:12,319 --> 00:08:16,400
+and i'm not going to name the e there's
+
+235
+00:08:14,399 --> 00:08:18,318
+there's there's no way to judge which
+
+236
+00:08:16,399 --> 00:08:18,878
+podcasts are better than the others
+
+237
+00:08:18,319 --> 00:08:21,680
+because
+
+238
+00:08:18,879 --> 00:08:22,800
+there's no objective measure of that it
+
+239
+00:08:21,680 --> 00:08:25,439
+just depends on
+
+240
+00:08:22,800 --> 00:08:26,000
+who you're trying to talk to and what
+
+241
+00:08:25,439 --> 00:08:29,598
+you're trying
+
+242
+00:08:26,000 --> 00:08:30,959
+to accomplish okay but do be selective
+
+243
+00:08:29,598 --> 00:08:33,679
+whatever you select
+
+244
+00:08:30,959 --> 00:08:34,639
+do be selective and then make sure you
+
+245
+00:08:33,679 --> 00:08:37,199
+have time
+
+246
+00:08:34,639 --> 00:08:38,879
+to think through what you're what you're
+
+247
+00:08:37,200 --> 00:08:40,879
+ingesting what you're consuming from a
+
+248
+00:08:38,879 --> 00:08:43,038
+media perspective
+
+249
+00:08:40,879 --> 00:08:45,360
+now conversations help if you've never
+
+250
+00:08:43,038 --> 00:08:48,159
+gone to a cardano blockchain meetup
+
+251
+00:08:45,360 --> 00:08:49,519
+i really recommend going on meetup.com
+
+252
+00:08:48,159 --> 00:08:52,319
+i'll leave a link to it
+
+253
+00:08:49,519 --> 00:08:54,959
+and finding a cardano blockchain meetup
+
+254
+00:08:52,320 --> 00:08:56,320
+that's helpful to you join discord and
+
+255
+00:08:54,958 --> 00:08:59,518
+telegram channels
+
+256
+00:08:56,320 --> 00:09:01,360
+try ideas on reddit to see how they go
+
+257
+00:08:59,519 --> 00:09:03,278
+this is all part and parcel with
+
+258
+00:09:01,360 --> 00:09:04,000
+practicing and you're going to discover
+
+259
+00:09:03,278 --> 00:09:06,240
+the ways
+
+260
+00:09:04,000 --> 00:09:07,120
+that make the most sense to you about
+
+261
+00:09:06,240 --> 00:09:09,278
+how you're going to
+
+262
+00:09:07,120 --> 00:09:11,440
+communicate because at the end of the
+
+263
+00:09:09,278 --> 00:09:14,320
+day the little things we do
+
+264
+00:09:11,440 --> 00:09:15,760
+all add up i am a firm believer that
+
+265
+00:09:14,320 --> 00:09:18,720
+small actions
+
+266
+00:09:15,759 --> 00:09:20,799
+over time lead to greater results than
+
+267
+00:09:18,720 --> 00:09:22,639
+just grand speculation
+
+268
+00:09:20,799 --> 00:09:25,359
+is it fun to talk about what cardano's
+
+269
+00:09:22,639 --> 00:09:27,919
+going to do over the next few decades
+
+270
+00:09:25,360 --> 00:09:30,159
+absolutely i can daydream about that all
+
+271
+00:09:27,919 --> 00:09:31,360
+day and i can have really high spirited
+
+272
+00:09:30,159 --> 00:09:33,600
+conversations
+
+273
+00:09:31,360 --> 00:09:35,519
+inside the cardano community about that
+
+274
+00:09:33,600 --> 00:09:36,639
+but if we really want to accomplish
+
+275
+00:09:35,519 --> 00:09:38,320
+those things
+
+276
+00:09:36,639 --> 00:09:39,759
+it's not about just having those big
+
+277
+00:09:38,320 --> 00:09:42,800
+picture conversations
+
+278
+00:09:39,759 --> 00:09:46,480
+it's about doing what we can do today
+
+279
+00:09:42,799 --> 00:09:49,278
+to move the ball incrementally further
+
+280
+00:09:46,480 --> 00:09:50,080
+towards that the other metaphor right
+
+281
+00:09:49,278 --> 00:09:52,240
+it's a marathon
+
+282
+00:09:50,080 --> 00:09:53,600
+not a sprint we're not gonna just flip
+
+283
+00:09:52,240 --> 00:09:55,519
+the lights on one day
+
+284
+00:09:53,600 --> 00:09:56,800
+gogan's gonna come out right we're
+
+285
+00:09:55,519 --> 00:10:00,399
+learning about that
+
+286
+00:09:56,799 --> 00:10:02,000
+right now right that doesn't that's not
+
+287
+00:10:00,399 --> 00:10:04,320
+the end of the story that's just the
+
+288
+00:10:02,000 --> 00:10:07,440
+beginning and we all have work to do
+
+289
+00:10:04,320 --> 00:10:08,959
+on a daily basis one more metaphor
+
+290
+00:10:07,440 --> 00:10:10,480
+i love the metaphor of drops in the
+
+291
+00:10:08,958 --> 00:10:12,159
+bucket okay so i'm just listing
+
+292
+00:10:10,480 --> 00:10:13,039
+different ways you can think about it
+
+293
+00:10:12,159 --> 00:10:15,039
+here
+
+294
+00:10:13,039 --> 00:10:17,360
+again you might have a different way
+
+295
+00:10:15,039 --> 00:10:19,679
+that you like to think about it
+
+296
+00:10:17,360 --> 00:10:22,240
+that's the most important thing i'm just
+
+297
+00:10:19,679 --> 00:10:24,799
+throwing a few ideas out there
+
+298
+00:10:22,240 --> 00:10:26,480
+so here's your task for part one of this
+
+299
+00:10:24,799 --> 00:10:29,120
+starter kit
+
+300
+00:10:26,480 --> 00:10:30,399
+i want you to balance content with
+
+301
+00:10:29,120 --> 00:10:33,360
+reflection
+
+302
+00:10:30,399 --> 00:10:35,039
+watch or listen to any podcast you want
+
+303
+00:10:33,360 --> 00:10:37,839
+i'll make some suggestions
+
+304
+00:10:35,039 --> 00:10:39,039
+um later in this starter kit but don't
+
+305
+00:10:37,839 --> 00:10:41,839
+follow me just
+
+306
+00:10:39,039 --> 00:10:42,559
+whatever is relevant to you to your
+
+307
+00:10:41,839 --> 00:10:45,839
+goals
+
+308
+00:10:42,559 --> 00:10:48,879
+listen to a podcast about that and then
+
+309
+00:10:45,839 --> 00:10:49,920
+walk away put away the earbuds put away
+
+310
+00:10:48,879 --> 00:10:52,799
+your computer
+
+311
+00:10:49,919 --> 00:10:53,199
+whether it's uh you know cooking dinner
+
+312
+00:10:52,799 --> 00:10:55,439
+or
+
+313
+00:10:53,200 --> 00:10:56,800
+doing some chores going for a walk or
+
+314
+00:10:55,440 --> 00:11:00,160
+staring out the window
+
+315
+00:10:56,799 --> 00:11:03,599
+whatever step away and spend some time
+
+316
+00:11:00,159 --> 00:11:06,719
+contemplating metaphors or stories
+
+317
+00:11:03,600 --> 00:11:09,759
+that will help you explain that idea
+
+318
+00:11:06,720 --> 00:11:12,639
+then practice and iterate
+
+319
+00:11:09,759 --> 00:11:14,159
+go have conversations go see how those
+
+320
+00:11:12,639 --> 00:11:17,838
+metaphors land
+
+321
+00:11:14,159 --> 00:11:20,319
+and see if they work out okay finally
+
+322
+00:11:17,839 --> 00:11:21,600
+make sure to keep your goals in mind one
+
+323
+00:11:20,320 --> 00:11:24,320
+of mine is increased
+
+324
+00:11:21,600 --> 00:11:25,440
+agency i want more people to be able to
+
+325
+00:11:24,320 --> 00:11:27,680
+do more things
+
+326
+00:11:25,440 --> 00:11:29,040
+to be able to make their visions come to
+
+327
+00:11:27,679 --> 00:11:31,278
+reality
+
+328
+00:11:29,039 --> 00:11:32,559
+for another way to think about goals and
+
+329
+00:11:31,278 --> 00:11:34,000
+why this matters
+
+330
+00:11:32,559 --> 00:11:35,919
+let's take a look at what josh was
+
+331
+00:11:34,000 --> 00:11:37,919
+saying a couple weeks ago on the afrofin
+
+332
+00:11:35,919 --> 00:11:39,599
+lab podcast check it out like you're
+
+333
+00:11:37,919 --> 00:11:41,039
+understanding right now because i
+
+334
+00:11:39,600 --> 00:11:42,320
+believe you're going to go back and do
+
+335
+00:11:41,039 --> 00:11:43,919
+some more research
+
+336
+00:11:42,320 --> 00:11:45,680
+and trust me you start talking to your
+
+337
+00:11:43,919 --> 00:11:47,919
+friend about this thing so that's how it
+
+338
+00:11:45,679 --> 00:11:50,559
+starts right each one reach one right
+
+339
+00:11:47,919 --> 00:11:51,199
+so you need to go back and people need
+
+340
+00:11:50,559 --> 00:11:54,559
+to start
+
+341
+00:11:51,200 --> 00:11:56,879
+hearing and learning about this in uh
+
+342
+00:11:54,559 --> 00:11:57,838
+you know the topic for i mean part of
+
+343
+00:11:56,879 --> 00:11:59,759
+our motto is
+
+344
+00:11:57,839 --> 00:12:01,519
+make this crypto nonsense make sense
+
+345
+00:11:59,759 --> 00:12:03,360
+people need to start making this
+
+346
+00:12:01,519 --> 00:12:05,440
+crypto nonsense make sense to their
+
+347
+00:12:03,360 --> 00:12:06,240
+friends and that is the beginning of the
+
+348
+00:12:05,440 --> 00:12:09,600
+revolution and
+
+349
+00:12:06,240 --> 00:12:12,480
+adoption of blockchain technology and
+
+350
+00:12:09,600 --> 00:12:13,120
+also that is the first step that needs
+
+351
+00:12:12,480 --> 00:12:16,240
+to happen
+
+352
+00:12:13,120 --> 00:12:19,278
+before we can gradually uh
+
+353
+00:12:16,240 --> 00:12:20,959
+subliminally collect power from these
+
+354
+00:12:19,278 --> 00:12:23,439
+power grabbers
+
+355
+00:12:20,958 --> 00:12:24,638
+yes josh you see this is why you're a
+
+356
+00:12:23,440 --> 00:12:27,839
+great teacher
+
+357
+00:12:24,639 --> 00:12:29,519
+you see you have this big grand vision
+
+358
+00:12:27,839 --> 00:12:30,880
+for the problems we're gonna solve
+
+359
+00:12:29,519 --> 00:12:34,480
+what's the problem
+
+360
+00:12:30,879 --> 00:12:35,759
+centralization power how centralized
+
+361
+00:12:34,480 --> 00:12:38,800
+power can corrupt
+
+362
+00:12:35,759 --> 00:12:40,319
+people okay we all want to undo that we
+
+363
+00:12:38,799 --> 00:12:43,519
+all want to push back against
+
+364
+00:12:40,320 --> 00:12:44,639
+that but how well you named it we got to
+
+365
+00:12:43,519 --> 00:12:47,278
+take our first
+
+366
+00:12:44,639 --> 00:12:48,079
+step we have to have conversations with
+
+367
+00:12:47,278 --> 00:12:50,480
+our friends
+
+368
+00:12:48,078 --> 00:12:52,799
+we have to get the word out there and
+
+369
+00:12:50,480 --> 00:12:55,759
+it's slow work but we can help people
+
+370
+00:12:52,799 --> 00:12:57,679
+understand this one of the things that
+
+371
+00:12:55,759 --> 00:12:59,039
+helps people gain understanding like
+
+372
+00:12:57,679 --> 00:13:02,559
+i've already mentioned
+
+373
+00:12:59,039 --> 00:13:03,759
+is metaphors and stories now using
+
+374
+00:13:02,559 --> 00:13:06,319
+metaphors takes
+
+375
+00:13:03,759 --> 00:13:08,078
+practice and that's why again
+
+376
+00:13:06,320 --> 00:13:11,040
+conversations and planning are
+
+377
+00:13:08,078 --> 00:13:14,159
+iterative let's take a listen to sydney
+
+378
+00:13:11,039 --> 00:13:16,399
+from that same episode of the podcast
+
+379
+00:13:14,159 --> 00:13:18,078
+using a metaphor that he leans on quite
+
+380
+00:13:16,399 --> 00:13:22,399
+often
+
+381
+00:13:18,078 --> 00:13:24,958
+you know what joshua said is um
+
+382
+00:13:22,399 --> 00:13:25,839
+you you i don't know i can't say what
+
+383
+00:13:24,958 --> 00:13:28,239
+people on this
+
+384
+00:13:25,839 --> 00:13:30,480
+call know and don't know i'm not sure
+
+385
+00:13:28,240 --> 00:13:32,159
+who's an auto mechanic here and knows
+
+386
+00:13:30,480 --> 00:13:35,440
+how an engine works
+
+387
+00:13:32,159 --> 00:13:38,399
+um but clearly i think that everyone
+
+388
+00:13:35,440 --> 00:13:40,800
+on the call has driven a car before um
+
+389
+00:13:38,399 --> 00:13:41,360
+so you don't need to know how the engine
+
+390
+00:13:40,799 --> 00:13:44,078
+works
+
+391
+00:13:41,360 --> 00:13:45,199
+in order to get in and turn the key and
+
+392
+00:13:44,078 --> 00:13:47,679
+use the
+
+393
+00:13:45,198 --> 00:13:50,159
+brake and the gas pedals can you tell
+
+394
+00:13:47,679 --> 00:13:53,039
+that sydney has had a chance to practice
+
+395
+00:13:50,159 --> 00:13:54,159
+using this metaphor of engines in
+
+396
+00:13:53,039 --> 00:13:56,240
+automobiles
+
+397
+00:13:54,159 --> 00:13:57,278
+and how it applies to the inner workings
+
+398
+00:13:56,240 --> 00:13:59,519
+of blockchain
+
+399
+00:13:57,278 --> 00:14:00,958
+okay in that particular conversation he
+
+400
+00:13:59,519 --> 00:14:03,278
+was applying it
+
+401
+00:14:00,958 --> 00:14:04,239
+to questions that we had about mass
+
+402
+00:14:03,278 --> 00:14:06,559
+adoption
+
+403
+00:14:04,240 --> 00:14:08,560
+right but that metaphor could also work
+
+404
+00:14:06,559 --> 00:14:10,239
+in a one-on-one conversation with a
+
+405
+00:14:08,559 --> 00:14:12,719
+newcomer to cardano
+
+406
+00:14:10,240 --> 00:14:14,959
+and when you practice using metaphors
+
+407
+00:14:12,720 --> 00:14:17,519
+when you see how they fall
+
+408
+00:14:14,958 --> 00:14:18,879
+then you have more and more experience
+
+409
+00:14:17,519 --> 00:14:22,078
+and you can apply them
+
+410
+00:14:18,879 --> 00:14:24,320
+with more nuance to any conversation
+
+411
+00:14:22,078 --> 00:14:26,000
+that you hit on all right so now i'm
+
+412
+00:14:24,320 --> 00:14:27,440
+going to show me being kind of awkward
+
+413
+00:14:26,000 --> 00:14:29,039
+with a metaphor this was something that
+
+414
+00:14:27,440 --> 00:14:31,279
+i thought of for the first time
+
+415
+00:14:29,039 --> 00:14:33,198
+and i probably wouldn't say it the same
+
+416
+00:14:31,278 --> 00:14:34,958
+way check it out
+
+417
+00:14:33,198 --> 00:14:37,359
+i just got this image as you were
+
+418
+00:14:34,958 --> 00:14:38,958
+speaking of like a tide
+
+419
+00:14:37,360 --> 00:14:40,800
+just sort of like you know and like
+
+420
+00:14:38,958 --> 00:14:42,799
+people who are like in power like
+
+421
+00:14:40,799 --> 00:14:44,159
+standing in front of the tide like oh no
+
+422
+00:14:42,799 --> 00:14:44,559
+this isn't going to happen but they're
+
+423
+00:14:44,159 --> 00:14:48,078
+like
+
+424
+00:14:44,559 --> 00:14:50,479
+literally just like a wave just
+
+425
+00:14:48,078 --> 00:14:51,679
+because it's it's coming i feel like
+
+426
+00:14:50,480 --> 00:14:54,720
+we're in a time
+
+427
+00:14:51,679 --> 00:14:55,278
+and a place globally right now where
+
+428
+00:14:54,720 --> 00:14:59,040
+it's like
+
+429
+00:14:55,278 --> 00:15:01,039
+people are i think people
+
+430
+00:14:59,039 --> 00:15:03,198
+i think there's a lot of like a lot of
+
+431
+00:15:01,039 --> 00:15:05,679
+feeling of
+
+432
+00:15:03,198 --> 00:15:07,198
+this this sense of you know you're
+
+433
+00:15:05,679 --> 00:15:08,799
+you're you're a government
+
+434
+00:15:07,198 --> 00:15:10,719
+you're meant to be here for us and if
+
+435
+00:15:08,799 --> 00:15:12,719
+you're not here for us then
+
+436
+00:15:10,720 --> 00:15:13,839
+you know we need to be here for
+
+437
+00:15:12,720 --> 00:15:15,680
+ourselves and i
+
+438
+00:15:13,839 --> 00:15:17,040
+you know that's uh that's one of the
+
+439
+00:15:15,679 --> 00:15:18,479
+things that hooks me when it comes to
+
+440
+00:15:17,039 --> 00:15:20,799
+blockchain and like this whole idea of
+
+441
+00:15:18,480 --> 00:15:22,639
+decentralizing it and making it about
+
+442
+00:15:20,799 --> 00:15:24,159
+what are the needs that we have what the
+
+443
+00:15:22,639 --> 00:15:28,720
+problems that we have
+
+444
+00:15:24,159 --> 00:15:28,719
+like putting tools in people's hands
+
+445
+00:15:28,879 --> 00:15:33,519
+that's it add that to the to the
+
+446
+00:15:31,278 --> 00:15:36,799
+metaphor right we're trying to hand out
+
+447
+00:15:33,519 --> 00:15:38,000
+as many dingy boats and scuba gear and
+
+448
+00:15:36,799 --> 00:15:40,719
+all the things so that
+
+449
+00:15:38,000 --> 00:15:41,679
+so that all of us can be safe in that
+
+450
+00:15:40,720 --> 00:15:44,160
+wave right
+
+451
+00:15:41,679 --> 00:15:46,078
+it's happening but we need we need
+
+452
+00:15:44,159 --> 00:15:49,039
+people to understand that it's coming
+
+453
+00:15:46,078 --> 00:15:51,359
+yikes well i mean aziza's metaphor was
+
+454
+00:15:49,039 --> 00:15:54,159
+great this tidal wave coming over
+
+455
+00:15:51,360 --> 00:15:56,240
+all of us changing the world right and
+
+456
+00:15:54,159 --> 00:15:58,078
+you could extend that one if you want to
+
+457
+00:15:56,240 --> 00:16:00,560
+and i got so excited about it that i
+
+458
+00:15:58,078 --> 00:16:01,198
+jumped in with dingy boats and scuba
+
+459
+00:16:00,559 --> 00:16:02,399
+gear i
+
+460
+00:16:01,198 --> 00:16:04,479
+you know i don't know if i would say it
+
+461
+00:16:02,399 --> 00:16:06,480
+the same way as that again
+
+462
+00:16:04,480 --> 00:16:08,159
+right but that's the whole point when we
+
+463
+00:16:06,480 --> 00:16:11,039
+have conversations
+
+464
+00:16:08,159 --> 00:16:11,919
+we have a chance to practice the way we
+
+465
+00:16:11,039 --> 00:16:14,719
+say things
+
+466
+00:16:11,919 --> 00:16:16,319
+to practice the way things resonate and
+
+467
+00:16:14,720 --> 00:16:17,839
+you know i probably certainly wouldn't
+
+468
+00:16:16,320 --> 00:16:20,079
+say it the same way as
+
+469
+00:16:17,839 --> 00:16:20,880
+that again but i do need to go for a
+
+470
+00:16:20,078 --> 00:16:23,278
+walk
+
+471
+00:16:20,879 --> 00:16:24,559
+and think about well what are the
+
+472
+00:16:23,278 --> 00:16:27,679
+metaphors
+
+473
+00:16:24,559 --> 00:16:31,039
+how how are we helping people
+
+474
+00:16:27,679 --> 00:16:32,479
+navigate this wave of of new things
+
+475
+00:16:31,039 --> 00:16:34,838
+that's happening
+
+476
+00:16:32,480 --> 00:16:36,320
+now the only way to do that is through
+
+477
+00:16:34,839 --> 00:16:37,360
+conversations
+
+478
+00:16:36,320 --> 00:16:40,720
+and we're going to cover that in the
+
+479
+00:16:37,360 --> 00:16:40,720
+next part of this starter kit
+
+480
+00:16:45,440 --> 00:16:49,680
+one of the things i've learned in my
+
+481
+00:16:48,078 --> 00:16:53,359
+teaching career
+
+482
+00:16:49,679 --> 00:16:54,879
+is that the more broadly i prepare for a
+
+483
+00:16:53,360 --> 00:16:58,480
+lesson
+
+484
+00:16:54,879 --> 00:17:02,000
+the more able i am during that lesson to
+
+485
+00:16:58,480 --> 00:17:03,600
+really engage with people if i'm not
+
+486
+00:17:02,000 --> 00:17:04,160
+prepared i might just have a quick
+
+487
+00:17:03,600 --> 00:17:05,759
+script
+
+488
+00:17:04,160 --> 00:17:08,640
+to read and want to get through the
+
+489
+00:17:05,759 --> 00:17:11,439
+points that i want to say
+
+490
+00:17:08,640 --> 00:17:13,199
+but if i'm really prepared if i've done
+
+491
+00:17:11,439 --> 00:17:17,038
+my research
+
+492
+00:17:13,199 --> 00:17:20,079
+and practiced thinking about things
+
+493
+00:17:17,038 --> 00:17:21,599
+then i'm able to be fully present
+
+494
+00:17:20,078 --> 00:17:23,198
+with the people that i'm trying to help
+
+495
+00:17:21,599 --> 00:17:27,038
+learn something
+
+496
+00:17:23,199 --> 00:17:29,919
+okay a great teacher of mine
+
+497
+00:17:27,038 --> 00:17:30,879
+helped me understand that gentleness
+
+498
+00:17:29,919 --> 00:17:33,120
+comes from
+
+499
+00:17:30,880 --> 00:17:35,120
+strength and i've always really
+
+500
+00:17:33,119 --> 00:17:39,038
+appreciated that lesson
+
+501
+00:17:35,119 --> 00:17:42,079
+the stronger and more prepared i am
+
+502
+00:17:39,038 --> 00:17:44,079
+the gentler i'm able to be and speaking
+
+503
+00:17:42,079 --> 00:17:44,798
+of metaphors this metaphor applies to
+
+504
+00:17:44,079 --> 00:17:48,159
+both
+
+505
+00:17:44,798 --> 00:17:51,918
+physical strength being gentle with
+
+506
+00:17:48,160 --> 00:17:54,000
+heavy delicate objects right
+
+507
+00:17:51,919 --> 00:17:56,400
+and it also applies to human
+
+508
+00:17:54,000 --> 00:17:59,839
+relationships
+
+509
+00:17:56,400 --> 00:18:03,200
+so when we come to conversations
+
+510
+00:17:59,839 --> 00:18:04,519
+about cardano i think it helps to think
+
+511
+00:18:03,200 --> 00:18:08,160
+of them as
+
+512
+00:18:04,519 --> 00:18:10,960
+problem-based conversations
+
+513
+00:18:08,160 --> 00:18:11,679
+jaime gossip a famous educator he's
+
+514
+00:18:10,960 --> 00:18:15,519
+worked at
+
+515
+00:18:11,679 --> 00:18:18,960
+google and i'll link to a video
+
+516
+00:18:15,519 --> 00:18:21,839
+that i got this quote from he asks
+
+517
+00:18:18,960 --> 00:18:23,600
+these three questions what problem do
+
+518
+00:18:21,839 --> 00:18:26,480
+you want to solve
+
+519
+00:18:23,599 --> 00:18:26,879
+how do you want to solve that problem
+
+520
+00:18:26,480 --> 00:18:28,880
+and
+
+521
+00:18:26,880 --> 00:18:31,039
+what do you need to learn to solve that
+
+522
+00:18:28,880 --> 00:18:34,559
+problem and he shows
+
+523
+00:18:31,038 --> 00:18:36,798
+how personal these questions are
+
+524
+00:18:34,558 --> 00:18:38,000
+not only the question about the problem
+
+525
+00:18:36,798 --> 00:18:41,200
+we want to solve
+
+526
+00:18:38,000 --> 00:18:42,880
+but what can i do how do i want to
+
+527
+00:18:41,200 --> 00:18:46,480
+contribute
+
+528
+00:18:42,880 --> 00:18:48,080
+that's a very subjective question and
+
+529
+00:18:46,480 --> 00:18:50,640
+everybody's going to have a different
+
+530
+00:18:48,079 --> 00:18:52,558
+answer to it that's kind of the beauty
+
+531
+00:18:50,640 --> 00:18:55,840
+of decentralization
+
+532
+00:18:52,558 --> 00:18:58,319
+we all have a chance to
+
+533
+00:18:55,839 --> 00:19:01,279
+and then once you get people to talk
+
+534
+00:18:58,319 --> 00:19:04,399
+about the problems they want to solve
+
+535
+00:19:01,279 --> 00:19:06,639
+now we can start asking them okay how
+
+536
+00:19:04,400 --> 00:19:09,600
+can i help you how can i help you learn
+
+537
+00:19:06,640 --> 00:19:11,120
+what you need to know in order to do
+
+538
+00:19:09,599 --> 00:19:12,959
+that
+
+539
+00:19:11,119 --> 00:19:14,319
+now we've been collecting videos from
+
+540
+00:19:12,960 --> 00:19:17,440
+the community
+
+541
+00:19:14,319 --> 00:19:18,159
+about how to talk about cardano and i
+
+542
+00:19:17,440 --> 00:19:21,120
+want to share
+
+543
+00:19:18,160 --> 00:19:22,558
+one of my favorite clips from steve
+
+544
+00:19:21,119 --> 00:19:24,558
+aldrich
+
+545
+00:19:22,558 --> 00:19:26,960
+i'm going to let you see steve drop the
+
+546
+00:19:24,558 --> 00:19:28,798
+mic and then how he continues on because
+
+547
+00:19:26,960 --> 00:19:32,079
+i think it's a great way
+
+548
+00:19:28,798 --> 00:19:34,639
+uh to to kind of frame
+
+549
+00:19:32,079 --> 00:19:35,918
+why we think about problem and project
+
+550
+00:19:34,640 --> 00:19:38,080
+based learning
+
+551
+00:19:35,919 --> 00:19:39,120
+and what i mean by problem-based
+
+552
+00:19:38,079 --> 00:19:41,599
+conversations
+
+553
+00:19:39,119 --> 00:19:44,399
+so here's steve what problem does
+
+554
+00:19:41,599 --> 00:19:47,199
+cardano solve
+
+555
+00:19:44,400 --> 00:19:50,080
+what problem do you have in the latest
+
+556
+00:19:47,200 --> 00:19:52,798
+catalyst funding round we had 126
+
+557
+00:19:50,079 --> 00:19:54,399
+proposals which are all solving for
+
+558
+00:19:52,798 --> 00:19:57,279
+different problems
+
+559
+00:19:54,400 --> 00:19:58,240
+look blockchain or more specifically
+
+560
+00:19:57,279 --> 00:20:00,879
+cardano
+
+561
+00:19:58,240 --> 00:20:02,558
+is not a solution looking for a problem
+
+562
+00:20:00,880 --> 00:20:05,280
+nor is it a silver bullet
+
+563
+00:20:02,558 --> 00:20:06,639
+for all the problems of the world the
+
+564
+00:20:05,279 --> 00:20:08,720
+fact remains that
+
+565
+00:20:06,640 --> 00:20:10,720
+financial and governance systems across
+
+566
+00:20:08,720 --> 00:20:11,360
+the globe are in one way or another
+
+567
+00:20:10,720 --> 00:20:13,038
+broken
+
+568
+00:20:11,359 --> 00:20:14,959
+or at least in need of a good cleaning
+
+569
+00:20:13,038 --> 00:20:18,158
+up if we can
+
+570
+00:20:14,960 --> 00:20:20,480
+solve for the financial or identity
+
+571
+00:20:18,159 --> 00:20:21,840
+or governance issues in places where
+
+572
+00:20:20,480 --> 00:20:25,279
+these are a problem
+
+573
+00:20:21,839 --> 00:20:27,918
+then we have a successful project
+
+574
+00:20:25,279 --> 00:20:29,119
+if that then grows outward to solve
+
+575
+00:20:27,919 --> 00:20:31,038
+other problems
+
+576
+00:20:29,119 --> 00:20:32,319
+which maybe we can't even comprehend
+
+577
+00:20:31,038 --> 00:20:35,440
+today
+
+578
+00:20:32,319 --> 00:20:36,558
+well that's just groovy steve thank you
+
+579
+00:20:35,440 --> 00:20:38,880
+for that
+
+580
+00:20:36,558 --> 00:20:40,240
+and for everybody out there looking to
+
+581
+00:20:38,880 --> 00:20:43,440
+start conversations
+
+582
+00:20:40,240 --> 00:20:46,240
+that's really all you have to say what
+
+583
+00:20:43,440 --> 00:20:48,480
+problem do you have
+
+584
+00:20:46,240 --> 00:20:51,759
+now what i really like about what steve
+
+585
+00:20:48,480 --> 00:20:54,720
+shares there is how he continues on
+
+586
+00:20:51,759 --> 00:20:56,480
+to talk about how solving one set of
+
+587
+00:20:54,720 --> 00:21:00,240
+problems
+
+588
+00:20:56,480 --> 00:21:02,960
+opens up the door to solve more problems
+
+589
+00:21:00,240 --> 00:21:04,000
+this idea of incremental growth and
+
+590
+00:21:02,960 --> 00:21:06,480
+iteration
+
+591
+00:21:04,000 --> 00:21:07,759
+once we build habits of solving problems
+
+592
+00:21:06,480 --> 00:21:10,720
+together
+
+593
+00:21:07,759 --> 00:21:11,519
+once we practice talking about them then
+
+594
+00:21:10,720 --> 00:21:14,000
+we can address
+
+595
+00:21:11,519 --> 00:21:14,879
+even bigger problems some of which like
+
+596
+00:21:14,000 --> 00:21:17,919
+steve says
+
+597
+00:21:14,880 --> 00:21:19,600
+we haven't even imagined yet
+
+598
+00:21:17,919 --> 00:21:22,559
+so think back to some of that teaching
+
+599
+00:21:19,599 --> 00:21:25,519
+terminology i shared with you earlier
+
+600
+00:21:22,558 --> 00:21:27,038
+how can you treat conversations as
+
+601
+00:21:25,519 --> 00:21:29,119
+formative assessments
+
+602
+00:21:27,038 --> 00:21:30,158
+and based on what you learned from
+
+603
+00:21:29,119 --> 00:21:32,158
+people
+
+604
+00:21:30,159 --> 00:21:33,440
+how can you scaffold for your friends
+
+605
+00:21:32,159 --> 00:21:37,760
+and your family
+
+606
+00:21:33,440 --> 00:21:39,759
+how to help them learn the next thing
+
+607
+00:21:37,759 --> 00:21:41,440
+how well are you bringing people into
+
+608
+00:21:39,759 --> 00:21:43,679
+these conversations
+
+609
+00:21:41,440 --> 00:21:45,038
+is your focus really on helping people
+
+610
+00:21:43,679 --> 00:21:46,798
+learn
+
+611
+00:21:45,038 --> 00:21:48,640
+or do you just want to tell people how
+
+612
+00:21:46,798 --> 00:21:50,720
+great cardano is
+
+613
+00:21:48,640 --> 00:21:51,679
+all right all of us that's what our
+
+614
+00:21:50,720 --> 00:21:53,600
+community is for
+
+615
+00:21:51,679 --> 00:21:55,280
+come on anytime we could talk about how
+
+616
+00:21:53,599 --> 00:21:56,639
+much we love this project and
+
+617
+00:21:55,279 --> 00:21:58,319
+what we think it's going to do but when
+
+618
+00:21:56,640 --> 00:22:01,120
+it comes to talking about
+
+619
+00:21:58,319 --> 00:22:03,038
+cardano with your friends and family
+
+620
+00:22:01,119 --> 00:22:05,038
+please focus on learning
+
+621
+00:22:03,038 --> 00:22:06,240
+please focus on what people understand
+
+622
+00:22:05,038 --> 00:22:07,440
+so far
+
+623
+00:22:06,240 --> 00:22:09,599
+and how you're going to help them
+
+624
+00:22:07,440 --> 00:22:12,240
+understand what's next
+
+625
+00:22:09,599 --> 00:22:13,519
+we're not in charge because we're not
+
+626
+00:22:12,240 --> 00:22:15,440
+here just to
+
+627
+00:22:13,519 --> 00:22:17,679
+talk about what we want to talk about we
+
+628
+00:22:15,440 --> 00:22:20,400
+got to meet people where they're at
+
+629
+00:22:17,679 --> 00:22:22,480
+again remember this is iterative work
+
+630
+00:22:20,400 --> 00:22:24,720
+and it's not about you digesting all
+
+631
+00:22:22,480 --> 00:22:27,839
+this information that's out there
+
+632
+00:22:24,720 --> 00:22:32,400
+it's about how well you're prepared
+
+633
+00:22:27,839 --> 00:22:36,000
+to help people understand things so
+
+634
+00:22:32,400 --> 00:22:37,200
+this task is easy go have a conversation
+
+635
+00:22:36,000 --> 00:22:40,319
+and while you're having that
+
+636
+00:22:37,200 --> 00:22:42,159
+conversation think about what problems
+
+637
+00:22:40,319 --> 00:22:44,240
+people are naming
+
+638
+00:22:42,159 --> 00:22:46,320
+think about what metaphors might help
+
+639
+00:22:44,240 --> 00:22:48,240
+and maybe try using some of the ones
+
+640
+00:22:46,319 --> 00:22:50,158
+you've brainstormed
+
+641
+00:22:48,240 --> 00:22:51,919
+and as you reflect on the conversation
+
+642
+00:22:50,159 --> 00:22:54,559
+you'll think of new ways that you might
+
+643
+00:22:51,919 --> 00:22:58,000
+need to develop for explaining things
+
+644
+00:22:54,558 --> 00:23:00,960
+what questions came up and then
+
+645
+00:22:58,000 --> 00:23:02,960
+if you want to come reflect uh with with
+
+646
+00:23:00,960 --> 00:23:05,519
+the rest of us in discord
+
+647
+00:23:02,960 --> 00:23:06,720
+you'll see a link in in the materials
+
+648
+00:23:05,519 --> 00:23:10,240
+accompanying
+
+649
+00:23:06,720 --> 00:23:12,319
+this video come pop into discord
+
+650
+00:23:10,240 --> 00:23:14,159
+share questions that stump to you or you
+
+651
+00:23:12,319 --> 00:23:16,079
+found particularly interesting
+
+652
+00:23:14,159 --> 00:23:17,280
+share metaphors that you're proud of
+
+653
+00:23:16,079 --> 00:23:18,960
+using uh
+
+654
+00:23:17,279 --> 00:23:20,480
+and if you you know if you put your foot
+
+655
+00:23:18,960 --> 00:23:21,200
+in your mouth and you want to talk about
+
+656
+00:23:20,480 --> 00:23:23,200
+that too
+
+657
+00:23:21,200 --> 00:23:25,840
+we'd love to hear that i do it all the
+
+658
+00:23:23,200 --> 00:23:28,720
+time i'm probably doing it in this video
+
+659
+00:23:25,839 --> 00:23:31,119
+um but this is our practice right this
+
+660
+00:23:28,720 --> 00:23:34,400
+is how we learn and grow together
+
+661
+00:23:31,119 --> 00:23:36,239
+now optionally for this part i was
+
+662
+00:23:34,400 --> 00:23:38,480
+really moved um
+
+663
+00:23:36,240 --> 00:23:40,079
+by frederick greygards i hope i'm saying
+
+664
+00:23:38,480 --> 00:23:43,120
+his name right um the new
+
+665
+00:23:40,079 --> 00:23:45,359
+cardano foundation ceo i listened to a
+
+666
+00:23:43,119 --> 00:23:46,798
+30-minute interview of him on the crypto
+
+667
+00:23:45,359 --> 00:23:49,278
+valley podcast
+
+668
+00:23:46,798 --> 00:23:50,400
+and i was really impressed i really
+
+669
+00:23:49,278 --> 00:23:53,679
+admired
+
+670
+00:23:50,400 --> 00:23:55,278
+the way he was framing questions about
+
+671
+00:23:53,679 --> 00:23:58,080
+cardano adoption
+
+672
+00:23:55,278 --> 00:23:59,359
+from a problem-based standpoint and i
+
+673
+00:23:58,079 --> 00:24:00,960
+would really recommend
+
+674
+00:23:59,359 --> 00:24:02,399
+i was talking before about choosing
+
+675
+00:24:00,960 --> 00:24:04,400
+quality content
+
+676
+00:24:02,400 --> 00:24:06,400
+i would definitely recommend this as
+
+677
+00:24:04,400 --> 00:24:09,919
+really high quality content
+
+678
+00:24:06,400 --> 00:24:11,440
+really interesting uh to a hear that
+
+679
+00:24:09,919 --> 00:24:13,840
+cardano foundation is in
+
+680
+00:24:11,440 --> 00:24:15,038
+is in good hands uh as far as what i'm
+
+681
+00:24:13,839 --> 00:24:18,959
+hearing there
+
+682
+00:24:15,038 --> 00:24:22,079
+um but that he's got such a great grasp
+
+683
+00:24:18,960 --> 00:24:23,200
+on approaching these conversations from
+
+684
+00:24:22,079 --> 00:24:26,558
+a problem-based
+
+685
+00:24:23,200 --> 00:24:28,400
+perspective all right so next we're
+
+686
+00:24:26,558 --> 00:24:29,599
+gonna spend a few minutes going out into
+
+687
+00:24:28,400 --> 00:24:33,840
+the real world
+
+688
+00:24:29,599 --> 00:24:33,839
+and getting some ada into people's hands
+
+689
+00:24:37,759 --> 00:24:42,240
+hey everybody james here i'm from
+
+690
+00:24:40,400 --> 00:24:43,519
+workshop navy and we're filming a
+
+691
+00:24:42,240 --> 00:24:46,558
+starter kit
+
+692
+00:24:43,519 --> 00:24:49,200
+here on the corner of franklin street
+
+693
+00:24:46,558 --> 00:24:50,798
+in worcester massachusetts this is my
+
+694
+00:24:49,200 --> 00:24:53,840
+buddy adam
+
+695
+00:24:50,798 --> 00:24:56,720
+adam created the workshop maybe logo
+
+696
+00:24:53,839 --> 00:24:58,000
+and i'm going to use my urroy wallet to
+
+697
+00:24:56,720 --> 00:25:00,159
+pay him for it
+
+698
+00:24:58,000 --> 00:25:02,000
+right now adam you got your oil
+
+699
+00:25:00,159 --> 00:25:03,840
+installed oh absolutely man yes when did
+
+700
+00:25:02,000 --> 00:25:04,798
+you download it uh a couple days ago all
+
+701
+00:25:03,839 --> 00:25:07,519
+right so you got a
+
+702
+00:25:04,798 --> 00:25:08,798
+is it empty zero data no ada yet all
+
+703
+00:25:07,519 --> 00:25:11,278
+right we're going to pay adam we're
+
+704
+00:25:08,798 --> 00:25:13,679
+going to get them into the ada ecosystem
+
+705
+00:25:11,278 --> 00:25:15,519
+uh using ada so i'm going to open up my
+
+706
+00:25:13,679 --> 00:25:18,480
+euro wallet
+
+707
+00:25:15,519 --> 00:25:19,519
+i'm going to get my send screen open got
+
+708
+00:25:18,480 --> 00:25:23,440
+a qr code
+
+709
+00:25:19,519 --> 00:25:29,038
+nice i'm going to scan that here we go
+
+710
+00:25:23,440 --> 00:25:32,159
+scan type in the amount
+
+711
+00:25:29,038 --> 00:25:36,319
+type in my spending password
+
+712
+00:25:32,159 --> 00:25:38,480
+and go all right i hope this works
+
+713
+00:25:36,319 --> 00:25:39,359
+thanks james you bet now did it show up
+
+714
+00:25:38,480 --> 00:25:42,640
+yet
+
+715
+00:25:39,359 --> 00:25:46,158
+it might take a couple seconds here
+
+716
+00:25:42,640 --> 00:25:48,240
+there it is i got it all right awesome
+
+717
+00:25:46,159 --> 00:25:49,679
+um how does it feel to be holding ada in
+
+718
+00:25:48,240 --> 00:25:52,720
+your hands i'm stoked about it
+
+719
+00:25:49,679 --> 00:25:55,120
+this is so exciting all right
+
+720
+00:25:52,720 --> 00:25:56,240
+so yo all we want to do is encourage
+
+721
+00:25:55,119 --> 00:25:58,158
+people hey think about
+
+722
+00:25:56,240 --> 00:26:00,319
+opportunities to use this in your
+
+723
+00:25:58,159 --> 00:26:02,480
+day-to-day life now we got
+
+724
+00:26:00,319 --> 00:26:03,839
+adam on board here actually your name is
+
+725
+00:26:02,480 --> 00:26:07,120
+so much like ada
+
+726
+00:26:03,839 --> 00:26:09,759
+it is interesting okay we got ada adam
+
+727
+00:26:07,119 --> 00:26:11,199
+in the house we got ryan behind the the
+
+728
+00:26:09,759 --> 00:26:13,759
+screen here
+
+729
+00:26:11,200 --> 00:26:15,840
+ryan's got these these really cool ada
+
+730
+00:26:13,759 --> 00:26:18,640
+coins he just printed one for me on a
+
+731
+00:26:15,839 --> 00:26:20,639
+on a 3d printer so lots of exciting
+
+732
+00:26:18,640 --> 00:26:22,320
+stuff happening around here
+
+733
+00:26:20,640 --> 00:26:23,600
+adam thanks for coming out tonight no
+
+734
+00:26:22,319 --> 00:26:24,879
+problem man and uh we'll talk to
+
+735
+00:26:23,599 --> 00:26:28,639
+everybody soon
+
+736
+00:26:24,880 --> 00:26:30,799
+all right so in terms of real world use
+
+737
+00:26:28,640 --> 00:26:32,799
+just sending a little bit of ada back
+
+738
+00:26:30,798 --> 00:26:36,000
+and forth between wallets
+
+739
+00:26:32,798 --> 00:26:36,798
+is about the extent of what most people
+
+740
+00:26:36,000 --> 00:26:40,319
+can do
+
+741
+00:26:36,798 --> 00:26:42,720
+right now okay that's all right
+
+742
+00:26:40,319 --> 00:26:43,918
+there's a lot more functionality coming
+
+743
+00:26:42,720 --> 00:26:46,079
+out
+
+744
+00:26:43,919 --> 00:26:47,759
+the middle of next year gogin is going
+
+745
+00:26:46,079 --> 00:26:49,839
+to be fully released
+
+746
+00:26:47,759 --> 00:26:51,119
+we're going to be able to use it in the
+
+747
+00:26:49,839 --> 00:26:54,240
+coming months
+
+748
+00:26:51,119 --> 00:26:56,639
+as parts of it go online
+
+749
+00:26:54,240 --> 00:26:58,558
+we want to have chances to play with it
+
+750
+00:26:56,640 --> 00:27:00,960
+to see what we can do with it
+
+751
+00:26:58,558 --> 00:27:02,319
+and that's why cardano starter kits
+
+752
+00:27:00,960 --> 00:27:04,558
+exist
+
+753
+00:27:02,319 --> 00:27:06,480
+listen i really don't want to be the
+
+754
+00:27:04,558 --> 00:27:07,038
+face and the voice of cardano starter
+
+755
+00:27:06,480 --> 00:27:09,919
+kits
+
+756
+00:27:07,038 --> 00:27:11,119
+i love doing this i love sharing my own
+
+757
+00:27:09,919 --> 00:27:13,759
+perspective
+
+758
+00:27:11,119 --> 00:27:14,558
+but i'm really hoping if i if i do this
+
+759
+00:27:13,759 --> 00:27:15,839
+right
+
+760
+00:27:14,558 --> 00:27:18,879
+other people are going to want to
+
+761
+00:27:15,839 --> 00:27:22,398
+contribute too and that means you
+
+762
+00:27:18,880 --> 00:27:25,520
+if if you find this question of how
+
+763
+00:27:22,398 --> 00:27:27,599
+local use will contribute to the
+
+764
+00:27:25,519 --> 00:27:30,319
+adoption of cardano
+
+765
+00:27:27,599 --> 00:27:31,678
+please be in touch i know this isn't the
+
+766
+00:27:30,319 --> 00:27:34,398
+whole story
+
+767
+00:27:31,679 --> 00:27:36,240
+there's really important work going on
+
+768
+00:27:34,398 --> 00:27:39,199
+the enterprise level
+
+769
+00:27:36,240 --> 00:27:39,919
+there's really incredible work being
+
+770
+00:27:39,200 --> 00:27:42,558
+done around
+
+771
+00:27:39,919 --> 00:27:43,679
+oracle pools and decentralized
+
+772
+00:27:42,558 --> 00:27:46,960
+identities
+
+773
+00:27:43,679 --> 00:27:50,640
+and all of that is so important
+
+774
+00:27:46,960 --> 00:27:54,319
+it's ground breaking
+
+775
+00:27:50,640 --> 00:27:56,399
+alongside that let's also address these
+
+776
+00:27:54,319 --> 00:27:59,038
+questions of local adoption
+
+777
+00:27:56,398 --> 00:28:00,558
+all right if you want to get involved
+
+778
+00:27:59,038 --> 00:28:02,798
+there's a discord link
+
+779
+00:28:00,558 --> 00:28:04,480
+to accompany this starter kit where you
+
+780
+00:28:02,798 --> 00:28:07,038
+can come talk about
+
+781
+00:28:04,480 --> 00:28:09,200
+the ideas in this starter kit your own
+
+782
+00:28:07,038 --> 00:28:11,200
+experiences with implementation
+
+783
+00:28:09,200 --> 00:28:12,720
+but you can also start to participate in
+
+784
+00:28:11,200 --> 00:28:13,519
+some of the bigger conversations we're
+
+785
+00:28:12,720 --> 00:28:15,519
+having
+
+786
+00:28:13,519 --> 00:28:17,038
+we would love to have you there all
+
+787
+00:28:15,519 --> 00:28:19,038
+right
+
+788
+00:28:17,038 --> 00:28:20,640
+there's one more part of this starter
+
+789
+00:28:19,038 --> 00:28:22,398
+kit part four
+
+790
+00:28:20,640 --> 00:28:24,320
+i'm going to release it in a separate
+
+791
+00:28:22,398 --> 00:28:26,000
+video you'll see the links in the
+
+792
+00:28:24,319 --> 00:28:28,158
+documentation here
+
+793
+00:28:26,000 --> 00:28:29,839
+where we dive into marlow a little bit
+
+794
+00:28:28,159 --> 00:28:31,760
+and there's another call to action there
+
+795
+00:28:29,839 --> 00:28:35,519
+with a project you can do
+
+796
+00:28:31,759 --> 00:28:39,759
+um it's really exciting the vision
+
+797
+00:28:35,519 --> 00:28:41,839
+of the iohk team around marlow
+
+798
+00:28:39,759 --> 00:28:42,960
+i was just watching the october
+
+799
+00:28:41,839 --> 00:28:46,558
+development update
+
+800
+00:28:42,960 --> 00:28:48,798
+earlier today and just to see
+
+801
+00:28:46,558 --> 00:28:49,678
+that team talking about how this is a
+
+802
+00:28:48,798 --> 00:28:53,440
+tool
+
+803
+00:28:49,679 --> 00:28:54,960
+they want to put in everybody's hands
+
+804
+00:28:53,440 --> 00:28:56,720
+that's what we're here for that's what
+
+805
+00:28:54,960 --> 00:28:59,440
+gets me up in the morning and i
+
+806
+00:28:56,720 --> 00:29:00,960
+really i'm so thrilled to try to
+
+807
+00:28:59,440 --> 00:29:05,038
+contribute to that work
+
+808
+00:29:00,960 --> 00:29:05,038
+all right invite you to do the same
+
+809
+00:29:05,119 --> 00:29:09,199
+the action step for part three go out in
+
+810
+00:29:08,319 --> 00:29:12,079
+your community
+
+811
+00:29:09,200 --> 00:29:12,880
+help somebody get hands-on with cardano
+
+812
+00:29:12,079 --> 00:29:17,038
+okay
+
+813
+00:29:12,880 --> 00:29:20,080
+it's challenging uh to buy ada right now
+
+814
+00:29:17,038 --> 00:29:22,960
+okay so like i did i i
+
+815
+00:29:20,079 --> 00:29:24,720
+had adam design a logo for me and i
+
+816
+00:29:22,960 --> 00:29:27,200
+asked him hey can i pay you an ada
+
+817
+00:29:24,720 --> 00:29:28,960
+and he was fine with that so i did now
+
+818
+00:29:27,200 --> 00:29:31,600
+he's got some ada in his wallet
+
+819
+00:29:28,960 --> 00:29:33,759
+he now he can feel what it's like and
+
+820
+00:29:31,599 --> 00:29:35,759
+maybe eventually he'll purchase his own
+
+821
+00:29:33,759 --> 00:29:38,000
+maybe he'll use the ada i gave him to
+
+822
+00:29:35,759 --> 00:29:40,240
+stake it and he'll find out what that's
+
+823
+00:29:38,000 --> 00:29:41,440
+what that's like right maybe he'll pay
+
+824
+00:29:40,240 --> 00:29:44,399
+somebody else
+
+825
+00:29:41,440 --> 00:29:45,200
+this is how we drive adoption right we
+
+826
+00:29:44,398 --> 00:29:46,959
+just start
+
+827
+00:29:45,200 --> 00:29:48,240
+getting the the idea out there and
+
+828
+00:29:46,960 --> 00:29:51,919
+people start to say
+
+829
+00:29:48,240 --> 00:29:53,038
+ah okay i see right there's gonna be a
+
+830
+00:29:51,919 --> 00:29:55,038
+lot more ways
+
+831
+00:29:53,038 --> 00:29:56,480
+to get hands-on with cardano in the
+
+832
+00:29:55,038 --> 00:29:59,519
+years to come
+
+833
+00:29:56,480 --> 00:30:00,960
+for now let's jump in
+
+834
+00:29:59,519 --> 00:30:02,879
+so to close out we're going to go back
+
+835
+00:30:00,960 --> 00:30:05,038
+to this question about having
+
+836
+00:30:02,880 --> 00:30:07,840
+problem-based conversations
+
+837
+00:30:05,038 --> 00:30:10,158
+i'm going to let sydney take us home in
+
+838
+00:30:07,839 --> 00:30:11,839
+this story he tells
+
+839
+00:30:10,159 --> 00:30:14,000
+about a conversation he was having with
+
+840
+00:30:11,839 --> 00:30:16,079
+his brother so thank you so much for
+
+841
+00:30:14,000 --> 00:30:17,759
+spending this time with me today
+
+842
+00:30:16,079 --> 00:30:19,678
+make sure to check out part four if
+
+843
+00:30:17,759 --> 00:30:20,640
+you're interested in learning more about
+
+844
+00:30:19,679 --> 00:30:23,840
+marlow
+
+845
+00:30:20,640 --> 00:30:25,360
+and i'll see you soon take care i mean i
+
+846
+00:30:23,839 --> 00:30:27,519
+don't know how these things will happen
+
+847
+00:30:25,359 --> 00:30:29,599
+i do believe that blockchain will have a
+
+848
+00:30:27,519 --> 00:30:32,240
+hand in solving these problems
+
+849
+00:30:29,599 --> 00:30:34,319
+um and i was having a conversation just
+
+850
+00:30:32,240 --> 00:30:38,399
+before our call today
+
+851
+00:30:34,319 --> 00:30:40,720
+with my brother who is a um
+
+852
+00:30:38,398 --> 00:30:42,398
+a police officer for the the memphis
+
+853
+00:30:40,720 --> 00:30:46,000
+police police department
+
+854
+00:30:42,398 --> 00:30:48,158
+and his wife who uh manages um
+
+855
+00:30:46,000 --> 00:30:49,440
+uh nurses for one of the hospitals here
+
+856
+00:30:48,159 --> 00:30:50,320
+in memphis and we had this deep
+
+857
+00:30:49,440 --> 00:30:53,919
+conversation
+
+858
+00:30:50,319 --> 00:30:56,319
+about um how how do we help people
+
+859
+00:30:53,919 --> 00:30:57,360
+because in the memphis area um there's a
+
+860
+00:30:56,319 --> 00:30:59,678
+there's a lot of
+
+861
+00:30:57,359 --> 00:31:00,719
+um there's a lot of things that that
+
+862
+00:30:59,679 --> 00:31:04,000
+occur
+
+863
+00:31:00,720 --> 00:31:05,679
+that um uh you know that that
+
+864
+00:31:04,000 --> 00:31:08,640
+that are hard to deal with a lot of you
+
+865
+00:31:05,679 --> 00:31:10,240
+know lack of resources a lot of um
+
+866
+00:31:08,640 --> 00:31:12,000
+violence a lot a lot of those types of
+
+867
+00:31:10,240 --> 00:31:15,200
+things and i was asking so how do
+
+868
+00:31:12,000 --> 00:31:17,519
+how do we fix those problems and i was
+
+869
+00:31:15,200 --> 00:31:20,558
+trying to pull that out of them
+
+870
+00:31:17,519 --> 00:31:23,200
+because i know um
+
+871
+00:31:20,558 --> 00:31:25,038
+without a doubt that blockchain will
+
+872
+00:31:23,200 --> 00:31:27,919
+facilitate
+
+873
+00:31:25,038 --> 00:31:29,440
+those solutions so whatever they were
+
+874
+00:31:27,919 --> 00:31:31,120
+what they were telling me about the
+
+875
+00:31:29,440 --> 00:31:33,919
+problem
+
+876
+00:31:31,119 --> 00:31:34,879
+i know that we can we can apply their
+
+877
+00:31:33,919 --> 00:31:38,159
+solutions
+
+878
+00:31:34,880 --> 00:31:40,799
+on a blockchain network that will
+
+879
+00:31:38,159 --> 00:31:41,278
+meet each person individually where they
+
+880
+00:31:40,798 --> 00:31:44,158
+are
+
+881
+00:31:41,278 --> 00:31:46,558
+and help to resolve these huge problems
+
+882
+00:31:44,159 --> 00:32:01,039
+that we've been talking about fixing for
+
+883
+00:31:46,558 --> 00:32:01,038
+for centuries now
