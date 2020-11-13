@@ -6,111 +6,107 @@ msgstr ""
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: youtube-CSK002-part1\n"
 "Language: es\n"
-"PO-Revision-Date: 2020-11-13 15:49+0100\n"
-"Last-Translator: rcmorano <l10n@gimbalabs.io>\n"
-"Language-Team: Spanish\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. visible for 3 seconds
 #: 00:00:00.560--%3E00:00:04.240
 msgid "hi my name is james and this is a"
-msgstr ""
+msgstr "Hola, mi nombre es James y esto es un"
 
 #. visible for 3 seconds
 #: 00:00:02.720--%3E00:00:06.560
 msgid "cardano starter kit"
-msgstr ""
+msgstr "Cardano Starter Kit"
 
 #. visible for 4 seconds
 #: 00:00:04.240--%3E00:00:08.559
 msgid "thanks for checking it out the name of"
-msgstr ""
+msgstr "Gracias por echarnos un vistazo, El nombre de"
 
 #. visible for 4 seconds
 #: 00:00:06.559--%3E00:00:10.638
 msgid "this starter kit is how to talk about"
-msgstr ""
+msgstr "este starter kit es:"
 
 #. visible for 4 seconds
 #: 00:00:08.558--%3E00:00:12.558
 msgctxt "00:00:08.558-->00:00:12.558"
 msgid "cardano with your friends and family"
-msgstr ""
+msgstr "\"Cómo hablar de Cardano con tu familia y amigos\""
 
 #. visible for 3 seconds
 #: 00:00:10.638--%3E00:00:14.079
 msgid "and if you're thinking wow that's a"
-msgstr ""
+msgstr "y si estás pensando \"wow\" eso es"
 
 #. visible for 3 seconds
 #: 00:00:12.558--%3E00:00:16.239
 msgid "pretty presumptuous title"
-msgstr ""
+msgstr "un título bastante presuntuoso"
 
 #. visible for 3 seconds
 #: 00:00:14.080--%3E00:00:17.278
 msgid "you're exactly right i want to get"
-msgstr ""
+msgstr "estás en lo correcto."
 
 #. visible for 3 seconds
 #: 00:00:16.239--%3E00:00:20.159
 msgid "something clear"
-msgstr ""
+msgstr "Quiero dejar algo claro:"
 
 #. visible for 4 seconds
 #: 00:00:17.278--%3E00:00:22.160
 msgid "i'm not an expert on this i'm on this"
-msgstr ""
+msgstr "No soy un experto en esto, estoy con vosotros"
 
 #. visible for 3 seconds
 #: 00:00:20.160--%3E00:00:23.679
 msgid "journey too and i want to figure out how"
-msgstr ""
+msgstr "en esta aventura y me gustaría encontrar la forma"
 
 #. visible for 4 seconds
 #: 00:00:22.160--%3E00:00:26.800
 msgid "to get better at this"
-msgstr ""
+msgstr "de mejorar en ello."
 
 #. visible for 4 seconds
 #: 00:00:23.679--%3E00:00:28.559
 msgid "and if i do this starter kit right"
-msgstr ""
+msgstr "Y si este starter kit sale bien,"
 
 #. visible for 3 seconds
 #: 00:00:26.800--%3E00:00:30.640
 msgid "you're going to have your own ideas at"
-msgstr ""
+msgstr "vas a tener tus propias ideas"
 
 #. visible for 3 seconds
 #: 00:00:28.559--%3E00:00:31.919
 msgid "the end of it for how you want to talk"
-msgstr ""
+msgstr "al final de él sobre cómo hablar"
 
 #. visible for 3 seconds
 #: 00:00:30.640--%3E00:00:34.079
 msgid "about cardano"
-msgstr ""
+msgstr "sobre Cardano"
 
 #. visible for 3 seconds
 #: 00:00:31.920--%3E00:00:35.200
 msgid "for how you want to address different"
-msgstr ""
+msgstr "para solucionar problemas diferentes"
 
 #. visible for 3 seconds
 #: 00:00:34.079--%3E00:00:37.520
 msgid "problems than the ones"
-msgstr ""
+msgstr "a los que yo voy a plantear."
 
 #. visible for 3 seconds
 #: 00:00:35.200--%3E00:00:39.120
 msgid "i want to address okay we're on a"
-msgstr ""
+msgstr "Okay,"
 
 #. visible for 3 seconds
 #: 00:00:37.520--%3E00:00:40.719
 msgid "journey together"
-msgstr ""
+msgstr "estamos en una aventura juntos"
 
 #. visible for 3 seconds
 #: 00:00:39.119--%3E00:00:42.238
@@ -4440,3 +4436,4 @@ msgstr ""
 #: 00:31:46.558--%3E00:32:01.038
 msgid "for centuries now"
 msgstr ""
+
