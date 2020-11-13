@@ -81,7 +81,7 @@ msgstr "vas a tener tus propias ideas"
 #. visible for 3 seconds
 #: 00:00:28.559--%3E00:00:31.919
 msgid "the end of it for how you want to talk"
-msgstr "al final de él sobre cómo hablar"
+msgstr "al final de él acerca de cómo hablar"
 
 #. visible for 3 seconds
 #: 00:00:30.640--%3E00:00:34.079
