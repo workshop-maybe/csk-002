@@ -1,0 +1,4439 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: youtube-CSK002-part1\n"
+"Language: en\n"
+
+#. visible for 3 seconds
+#: 00:00:00.560--%3E00:00:04.240
+msgid "hi my name is james and this is a"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:02.720--%3E00:00:06.560
+msgid "cardano starter kit"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:04.240--%3E00:00:08.559
+msgid "thanks for checking it out the name of"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:06.559--%3E00:00:10.638
+msgid "this starter kit is how to talk about"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:08.558--%3E00:00:12.558
+msgctxt "00:00:08.558-->00:00:12.558"
+msgid "cardano with your friends and family"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:10.638--%3E00:00:14.079
+msgid "and if you're thinking wow that's a"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:12.558--%3E00:00:16.239
+msgid "pretty presumptuous title"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:14.080--%3E00:00:17.278
+msgid "you're exactly right i want to get"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:16.239--%3E00:00:20.159
+msgid "something clear"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:17.278--%3E00:00:22.160
+msgid "i'm not an expert on this i'm on this"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:20.160--%3E00:00:23.679
+msgid "journey too and i want to figure out how"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:22.160--%3E00:00:26.800
+msgid "to get better at this"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:23.679--%3E00:00:28.559
+msgid "and if i do this starter kit right"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:26.800--%3E00:00:30.640
+msgid "you're going to have your own ideas at"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:28.559--%3E00:00:31.919
+msgid "the end of it for how you want to talk"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:30.640--%3E00:00:34.079
+msgid "about cardano"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:31.920--%3E00:00:35.200
+msgid "for how you want to address different"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:34.079--%3E00:00:37.520
+msgid "problems than the ones"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:35.200--%3E00:00:39.120
+msgid "i want to address okay we're on a"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:37.520--%3E00:00:40.719
+msgid "journey together"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:39.119--%3E00:00:42.238
+msgid "i really just want to kind of help get"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:40.719--%3E00:00:45.439
+msgid "conversations going"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:42.238--%3E00:00:46.878
+msgid "and then get out of the way now i happen"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:45.439--%3E00:00:50.320
+msgid "to be a teacher"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:00:46.878--%3E00:00:53.439
+msgid "we all have our own domains of expertise"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:50.320--%3E00:00:55.039
+msgid "mine is education and so what i want to"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:00:53.439--%3E00:00:58.399
+msgid "do to start this"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:00:55.039--%3E00:01:00.079
+msgid "starter kit is is share a few education"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:00:58.399--%3E00:01:01.759
+msgid "terms with you if you're not a teacher"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:01:00.079--%3E00:01:02.878
+msgid "maybe you don't think about things in"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:01.759--%3E00:01:05.118
+msgid "these terms"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:02.878--%3E00:01:06.798
+msgid "but i'm hoping that by throwing these"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:05.118--%3E00:01:09.118
+msgid "ideas out there"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:06.799--%3E00:01:10.400
+msgid "these might prompt some line of thinking"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:09.118--%3E00:01:12.478
+msgid "in your mind"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:10.400--%3E00:01:14.080
+msgid "and then you can pursue that so i'm"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:12.478--%3E00:01:16.000
+msgid "going to share these terms"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:14.079--%3E00:01:17.599
+msgid "don't worry too much about remembering"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:16.000--%3E00:01:20.400
+msgid "what the words are"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:17.599--%3E00:01:22.239
+msgid "i just want to get some ideas out there"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:20.400--%3E00:01:24.960
+msgid "so that we can then use them"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:22.239--%3E00:01:26.000
+msgid "as we move through this starter kit if"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:24.959--%3E00:01:28.798
+msgid "you find any of these"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:26.000--%3E00:01:29.759
+msgid "ideas particularly useful i'm providing"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:28.799--%3E00:01:32.240
+msgid "some links"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:29.759--%3E00:01:34.159
+msgid "for following up but you can also join"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:32.239--%3E00:01:35.359
+msgid "our conversation in the gimbal labs"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:01:34.159--%3E00:01:36.560
+msgid "discord"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:35.359--%3E00:01:38.959
+msgid "if you want to continue these"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:01:36.560--%3E00:01:42.000
+msgid "conversations ask new questions"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:01:38.959--%3E00:01:44.879
+msgid "ask for further resources and so on"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:42.000--%3E00:01:46.478
+msgid "so let's get going project-based"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:44.879--%3E00:01:49.039
+msgid "learning is something that we're really"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:46.478--%3E00:01:51.280
+msgid "big on at gimbal labs and at workshop"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:49.040--%3E00:01:52.320
+msgid "maybe and it's just based on this idea"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:51.280--%3E00:01:55.599
+msgid "that people learn"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:01:52.319--%3E00:01:57.679
+msgid "best by doing things"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:55.599--%3E00:01:58.798
+msgid "similar to project-based learning is"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:01:57.680--%3E00:02:01.200
+msgid "problem-based"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:01:58.799--%3E00:02:03.200
+msgid "learning we learn best when we have a"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:02:01.200--%3E00:02:06.399
+msgid "chance to figure things out"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:02:03.200--%3E00:02:09.118
+msgid "for ourselves pbl"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:06.399--%3E00:02:10.080
+msgid "is an acronym that's a really convenient"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:09.118--%3E00:02:12.560
+msgid "catch-all"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:10.080--%3E00:02:13.680
+msgid "for both of these terms because they're"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:12.560--%3E00:02:16.159
+msgid "connected"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:13.680--%3E00:02:17.200
+msgid "when we work on projects whether it's a"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:02:16.159--%3E00:02:21.039
+msgid "home improvement"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:02:17.199--%3E00:02:23.280
+msgid "project or a business project"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:21.039--%3E00:02:24.318
+msgid "anything we might want to accomplish out"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:23.280--%3E00:02:26.800
+msgid "in the world"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:02:24.318--%3E00:02:28.799
+msgid "we run into problems this is what"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:26.800--%3E00:02:30.640
+msgid "software development is all about right"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:28.800--%3E00:02:32.560
+msgid "we run into problems that we then have"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:02:30.639--%3E00:02:34.799
+msgid "to figure out new things"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:32.560--%3E00:02:36.159
+msgid "and that's how we develop expertise so"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:34.800--%3E00:02:38.480
+msgid "there's always this give and take"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:02:36.159--%3E00:02:41.359
+msgid "between the project i want to complete"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:02:38.479--%3E00:02:43.518
+msgid "the problems that emerge and how i learn"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:02:41.360--%3E00:02:45.920
+msgid "from both of those things"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:43.519--%3E00:02:46.719
+msgid "so when i use the acronym pbl i'm kind"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:45.919--%3E00:02:49.039
+msgid "of talking about"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:46.719--%3E00:02:50.159
+msgid "both of these things at the same time"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:02:49.039--%3E00:02:52.400
+msgid "now"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:02:50.159--%3E00:02:54.479
+msgid "whether we're talking about students or"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:02:52.400--%3E00:02:56.560
+msgid "just grown-ups in the real world trying"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:02:54.479--%3E00:02:59.679
+msgid "to accomplish real things"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:02:56.560--%3E00:03:01.598
+msgid "pbl gives us the opportunity to practice"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:02:59.680--%3E00:03:04.959
+msgid "collaboration"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:03:01.598--%3E00:03:06.719
+msgid "and exec executive functioning okay"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:04.959--%3E00:03:09.199
+msgid "executive functioning is just planning"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:06.719--%3E00:03:11.199
+msgid "and execution how do you set priorities"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:09.199--%3E00:03:12.799
+msgid "how do you make plans what do you need"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:11.199--%3E00:03:15.598
+msgid "to do to get the job done"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:12.800--%3E00:03:16.319
+msgid "and of course uh to solve most great"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:03:15.598--%3E00:03:17.840
+msgctxt "00:03:15.598-->00:03:17.840"
+msgid "problems"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:16.318--%3E00:03:20.639
+msgid "you need a team you need to be able to"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:03:17.840--%3E00:03:23.360
+msgid "collaborate with people"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:20.639--%3E00:03:25.598
+msgid "teachers are always paying attention to"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:03:23.360--%3E00:03:28.480
+msgid "formative assessment this is not like"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:25.598--%3E00:03:29.518
+msgid "taking the sats or a big exam at the end"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:28.479--%3E00:03:31.598
+msgid "of the year"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:29.519--%3E00:03:33.439
+msgid "formative assessment happens all the"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:31.598--%3E00:03:35.439
+msgid "time and the point is"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:33.439--%3E00:03:36.560
+msgid "never to call students out on what they"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:35.439--%3E00:03:39.439
+msgid "do or don't know"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:36.560--%3E00:03:40.719
+msgid "it's for teachers to find out what"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:39.439--%3E00:03:43.199
+msgid "students know"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:40.719--%3E00:03:44.000
+msgid "so that teachers can help their students"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:43.199--%3E00:03:47.598
+msgid "take the next"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:44.000--%3E00:03:48.400
+msgid "step the teacher's responsibility then"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:03:47.598--%3E00:03:51.439
+msgid "is to provide"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:48.400--%3E00:03:53.120
+msgid "scaffolding based on what i know about"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:51.439--%3E00:03:55.840
+msgid "these learners"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:03:53.120--%3E00:03:58.000
+msgid "how can i help them understand what"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:03:55.840--%3E00:04:01.039
+msgid "their next few steps might be"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:03:58.000--%3E00:04:03.680
+msgid "i'm going to provide scaffolding to help"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:04:01.039--%3E00:04:06.158
+msgid "people along their journey of course"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:04:03.680--%3E00:04:09.200
+msgid "this doesn't happen all at once"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:04:06.158--%3E00:04:11.679
+msgid "but if we work hard at it and if we"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:04:09.199--%3E00:04:13.039
+msgid "iterate between formative assessment and"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:04:11.680--%3E00:04:15.280
+msgid "scaffolding"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:13.039--%3E00:04:17.039
+msgid "what we're going to eventually do is"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:15.280--%3E00:04:19.439
+msgid "provide people with more"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:17.040--%3E00:04:21.040
+msgid "agency and that's really my number one"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:04:19.439--%3E00:04:25.040
+msgid "goal as a teacher"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:21.040--%3E00:04:25.919
+msgid "anytime i teach i judge the lesson to be"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:25.040--%3E00:04:29.199
+msgid "successful"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:04:25.918--%3E00:04:31.519
+msgid "if people go away from it having more"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:29.199--%3E00:04:34.000
+msgid "ability to make their own decisions"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:04:31.519--%3E00:04:34.959
+msgid "more ability to define what their next"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:04:34.000--%3E00:04:37.759
+msgid "steps are"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:04:34.959--%3E00:04:38.638
+msgid "ideas that they're really excited to"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:37.759--%3E00:04:42.720
+msgid "follow through"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:04:38.639--%3E00:04:44.160
+msgid "on that's what learning is all about"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:04:42.720--%3E00:04:45.919
+msgid "so wrapped up in this is this"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:04:44.160--%3E00:04:49.439
+msgid "distinction between intrinsic and"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:04:45.918--%3E00:04:52.478
+msgid "extrinsic motivation right grades are"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:04:49.439--%3E00:04:54.560
+msgid "extrinsic motivators kind of like the"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:04:52.478--%3E00:04:55.199
+msgid "token value of cardano if you think"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:04:54.560--%3E00:04:57.918
+msgid "about it"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:55.199--%3E00:04:59.439
+msgid "right extrinsic motivation these these"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:57.918--%3E00:05:02.319
+msgid "these carrots and sticks"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:04:59.439--%3E00:05:03.519
+msgid "out in the world versus intrinsic"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:02.319--%3E00:05:06.000
+msgid "motivation"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:03.519--%3E00:05:06.639
+msgid "which is the feeling that oh i can't"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:06.000--%3E00:05:09.439
+msgid "resist"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:06.639--%3E00:05:10.560
+msgid "doing the next thing i want to see this"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:09.439--%3E00:05:13.439
+msgid "project through"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:10.560--%3E00:05:15.199
+msgid "i want to solve this problem because it"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:13.439--%3E00:05:17.680
+msgid "matters to me"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:15.199--%3E00:05:19.360
+msgid "and finally one more distinction between"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:17.680--%3E00:05:20.800
+msgid "teaching and learning i touched on this"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:05:19.360--%3E00:05:24.639
+msgid "a little bit"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:05:20.800--%3E00:05:27.439
+msgid "but the focus for all teachers has to be"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:24.639--%3E00:05:28.720
+msgid "how much are people learning not how"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:27.439--%3E00:05:31.839
+msgid "smart do i sound"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:28.720--%3E00:05:32.720
+msgid "not how many of my ideas can i throw out"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:31.839--%3E00:05:34.879
+msgid "there to the world"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:32.720--%3E00:05:36.320
+msgid "but how much are people really"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:34.879--%3E00:05:38.879
+msgid "understanding"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:36.319--%3E00:05:40.560
+msgid "and this is an ongoing thing in teaching"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:38.879--%3E00:05:42.959
+msgid "if you walk into any school"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:40.560--%3E00:05:44.720
+msgid "you're going to see teachers on opposite"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:05:42.959--%3E00:05:45.839
+msgid "ends and everywhere in between of this"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:05:44.720--%3E00:05:47.600
+msgid "continuum"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:05:45.839--%3E00:05:50.079
+msgid "between thinking teaching is about them"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:05:47.600--%3E00:05:53.600
+msgid "standing up and delivering content"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:05:50.079--%3E00:05:55.599
+msgid "and students actually understanding"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:53.600--%3E00:05:57.120
+msgid "things i've had a lot of good arguments"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:55.600--%3E00:05:59.120
+msgid "about this over the years but i come"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:05:57.120--%3E00:06:02.240
+msgid "down pretty strongly on the end"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:05:59.120--%3E00:06:02.879
+msgid "that it's not about me it's about how"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:06:02.240--%3E00:06:06.240
+msgid "much"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:06:02.879--%3E00:06:08.000
+msgid "other people can understand you can let"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:06:06.240--%3E00:06:11.759
+msgid "me know if it's working for this starter"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:06:08.000--%3E00:06:14.319
+msgid "kit okay i encourage your participation"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:11.759--%3E00:06:15.520
+msgid "so to summarize teaching is only"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:14.319--%3E00:06:18.080
+msgid "effective"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:15.519--%3E00:06:19.038
+msgid "if it leads to learning and as teachers"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:06:18.079--%3E00:06:20.719
+msgid "our role"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:19.038--%3E00:06:22.159
+msgid "is to think about the people that we're"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:20.720--%3E00:06:24.319
+msgid "trying to connect with"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:22.160--%3E00:06:25.600
+msgid "and find the right projects find the"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:24.319--%3E00:06:27.680
+msgid "right problems"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:25.600--%3E00:06:29.439
+msgid "find the right metaphors and find the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:06:27.680--%3E00:06:32.319
+msgid "right stories to tell"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:06:29.439--%3E00:06:33.680
+msgid "so we can help people take the next step"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:32.319--%3E00:06:35.919
+msgid "on their journey"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:06:33.680--%3E00:06:38.720
+msgid "understand the next thing that they"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:06:35.918--%3E00:06:42.478
+msgid "didn't understand before"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:06:38.720--%3E00:06:45.039
+msgid "so let's apply this to cardano"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:06:42.478--%3E00:06:46.639
+msgid "over the last few months i've really"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:45.038--%3E00:06:48.639
+msgid "started to recognize"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:06:46.639--%3E00:06:50.960
+msgid "that preparing for a conversation with"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:06:48.639--%3E00:06:53.840
+msgid "my friends or with my family"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:06:50.959--%3E00:06:55.758
+msgid "is similar to how i plan to teach a"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:53.839--%3E00:06:57.679
+msgid "lesson about high school algebra"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:55.759--%3E00:06:59.439
+msgid "okay and so let's think about how a few"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:57.680--%3E00:07:01.439
+msgid "of these things apply"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:06:59.439--%3E00:07:03.279
+msgid "to planning for conversations about"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:01.439--%3E00:07:05.360
+msgctxt "00:07:01.439-->00:07:05.360"
+msgid "cardano"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:03.279--%3E00:07:06.879
+msgid "first of all planning and conversations"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:05.360--%3E00:07:08.400
+msgid "are iterative it's not like you go from"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:07:06.879--%3E00:07:09.279
+msgid "planning then you have a conversation"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:08.399--%3E00:07:11.598
+msgid "then it's done"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:09.279--%3E00:07:13.038
+msgid "right any conversation is going to raise"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:11.598--%3E00:07:15.120
+msgid "new questions for you"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:13.038--%3E00:07:16.639
+msgid "it's going to help you recognize things"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:07:15.120--%3E00:07:17.680
+msgid "that you wish you were better at"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:07:16.639--%3E00:07:18.639
+msgid "explaining"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:17.680--%3E00:07:21.199
+msgid "so you're gonna have a chance to"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:07:18.639--%3E00:07:24.560
+msgid "practice that okay"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:07:21.199--%3E00:07:28.319
+msgid "it's really important to choose content"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:07:24.560--%3E00:07:30.879
+msgid "selectively there are so many"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:28.319--%3E00:07:32.080
+msgid "opportunities there's so many articles"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:07:30.879--%3E00:07:35.598
+msgid "blog posts"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:07:32.079--%3E00:07:39.120
+msgid "podcasts videos out there where people"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:07:35.598--%3E00:07:42.560
+msgid "talk about blockchain and cardano"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:07:39.120--%3E00:07:44.879
+msgid "don't just fill up on this content"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:07:42.560--%3E00:07:46.560
+msgid "make sure you have a chance to digest"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:07:44.879--%3E00:07:49.680
+msgid "what you're consuming"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:46.560--%3E00:07:50.478
+msgid "make time to think and reflect on the"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:07:49.680--%3E00:07:53.199
+msgid "ideas"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:07:50.478--%3E00:07:55.439
+msgid "that you learn and while going back to"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:07:53.199--%3E00:07:58.000
+msgid "this idea of executive functioning right"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:07:55.439--%3E00:08:00.319
+msgid "don't just watch everything you don't"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:07:58.000--%3E00:08:03.519
+msgid "have to keep up on everything"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:08:00.319--%3E00:08:05.680
+msgid "choose carefully what's relevant to you"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:03.519--%3E00:08:08.399
+msgid "to the people you're trying to connect"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:08:05.680--%3E00:08:11.038
+msgid "with our community is growing"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:08.399--%3E00:08:12.318
+msgid "right trying to keep up on every podcast"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:11.038--%3E00:08:14.399
+msgid "is really hard"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:12.319--%3E00:08:16.400
+msgid "and i'm not going to name the e there's"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:14.399--%3E00:08:18.318
+msgid "there's there's no way to judge which"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:08:16.399--%3E00:08:18.878
+msgid "podcasts are better than the others"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:18.319--%3E00:08:21.680
+msgid "because"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:18.879--%3E00:08:22.800
+msgid "there's no objective measure of that it"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:21.680--%3E00:08:25.439
+msgid "just depends on"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:22.800--%3E00:08:26.000
+msgid "who you're trying to talk to and what"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:25.439--%3E00:08:29.598
+msgid "you're trying"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:26.000--%3E00:08:30.959
+msgid "to accomplish okay but do be selective"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:29.598--%3E00:08:33.679
+msgid "whatever you select"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:30.959--%3E00:08:34.639
+msgid "do be selective and then make sure you"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:33.679--%3E00:08:37.199
+msgid "have time"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:34.639--%3E00:08:38.879
+msgid "to think through what you're what you're"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:37.200--%3E00:08:40.879
+msgid "ingesting what you're consuming from a"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:38.879--%3E00:08:43.038
+msgid "media perspective"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:40.879--%3E00:08:45.360
+msgid "now conversations help if you've never"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:08:43.038--%3E00:08:48.159
+msgid "gone to a cardano blockchain meetup"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:45.360--%3E00:08:49.519
+msgid "i really recommend going on meetup.com"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:48.159--%3E00:08:52.319
+msgid "i'll leave a link to it"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:08:49.519--%3E00:08:54.959
+msgid "and finding a cardano blockchain meetup"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:52.320--%3E00:08:56.320
+msgid "that's helpful to you join discord and"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:08:54.958--%3E00:08:59.518
+msgid "telegram channels"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:08:56.320--%3E00:09:01.360
+msgid "try ideas on reddit to see how they go"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:08:59.519--%3E00:09:03.278
+msgid "this is all part and parcel with"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:09:01.360--%3E00:09:04.000
+msgid "practicing and you're going to discover"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:09:03.278--%3E00:09:06.240
+msgid "the ways"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:04.000--%3E00:09:07.120
+msgid "that make the most sense to you about"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:06.240--%3E00:09:09.278
+msgid "how you're going to"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:09:07.120--%3E00:09:11.440
+msgid "communicate because at the end of the"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:09:09.278--%3E00:09:14.320
+msgid "day the little things we do"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:09:11.440--%3E00:09:15.760
+msgid "all add up i am a firm believer that"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:09:14.320--%3E00:09:18.720
+msgid "small actions"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:09:15.759--%3E00:09:20.799
+msgid "over time lead to greater results than"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:18.720--%3E00:09:22.639
+msgid "just grand speculation"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:09:20.799--%3E00:09:25.359
+msgid "is it fun to talk about what cardano's"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:09:22.639--%3E00:09:27.919
+msgid "going to do over the next few decades"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:09:25.360--%3E00:09:30.159
+msgid "absolutely i can daydream about that all"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:27.919--%3E00:09:31.360
+msgid "day and i can have really high spirited"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:30.159--%3E00:09:33.600
+msgctxt "00:09:30.159-->00:09:33.600"
+msgid "conversations"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:09:31.360--%3E00:09:35.519
+msgid "inside the cardano community about that"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:33.600--%3E00:09:36.639
+msgid "but if we really want to accomplish"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:09:35.519--%3E00:09:38.320
+msgid "those things"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:36.639--%3E00:09:39.759
+msgid "it's not about just having those big"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:09:38.320--%3E00:09:42.800
+msgid "picture conversations"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:09:39.759--%3E00:09:46.480
+msgid "it's about doing what we can do today"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:09:42.799--%3E00:09:49.278
+msgid "to move the ball incrementally further"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:46.480--%3E00:09:50.080
+msgid "towards that the other metaphor right"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:09:49.278--%3E00:09:52.240
+msgid "it's a marathon"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:50.080--%3E00:09:53.600
+msgid "not a sprint we're not gonna just flip"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:52.240--%3E00:09:55.519
+msgid "the lights on one day"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:09:53.600--%3E00:09:56.800
+msgid "gogan's gonna come out right we're"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:09:55.519--%3E00:10:00.399
+msgid "learning about that"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:09:56.799--%3E00:10:02.000
+msgid "right now right that doesn't that's not"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:10:00.399--%3E00:10:04.320
+msgid "the end of the story that's just the"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:10:02.000--%3E00:10:07.440
+msgid "beginning and we all have work to do"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:04.320--%3E00:10:08.959
+msgid "on a daily basis one more metaphor"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:10:07.440--%3E00:10:10.480
+msgid "i love the metaphor of drops in the"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:10:08.958--%3E00:10:12.159
+msgid "bucket okay so i'm just listing"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:10:10.480--%3E00:10:13.039
+msgid "different ways you can think about it"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:10:12.159--%3E00:10:15.039
+msgid "here"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:13.039--%3E00:10:17.360
+msgid "again you might have a different way"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:15.039--%3E00:10:19.679
+msgid "that you like to think about it"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:17.360--%3E00:10:22.240
+msgid "that's the most important thing i'm just"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:10:19.679--%3E00:10:24.799
+msgid "throwing a few ideas out there"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:22.240--%3E00:10:26.480
+msgid "so here's your task for part one of this"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:24.799--%3E00:10:29.120
+msgctxt "00:10:24.799-->00:10:29.120"
+msgid "starter kit"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:10:26.480--%3E00:10:30.399
+msgid "i want you to balance content with"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:29.120--%3E00:10:33.360
+msgid "reflection"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:30.399--%3E00:10:35.039
+msgid "watch or listen to any podcast you want"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:33.360--%3E00:10:37.839
+msgid "i'll make some suggestions"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:35.039--%3E00:10:39.039
+msgid "um later in this starter kit but don't"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:37.839--%3E00:10:41.839
+msgid "follow me just"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:10:39.039--%3E00:10:42.559
+msgid "whatever is relevant to you to your"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:41.839--%3E00:10:45.839
+msgid "goals"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:10:42.559--%3E00:10:48.879
+msgid "listen to a podcast about that and then"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:45.839--%3E00:10:49.920
+msgid "walk away put away the earbuds put away"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:10:48.879--%3E00:10:52.799
+msgid "your computer"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:10:49.919--%3E00:10:53.199
+msgid "whether it's uh you know cooking dinner"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:10:52.799--%3E00:10:55.439
+msgid "or"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:10:53.200--%3E00:10:56.800
+msgid "doing some chores going for a walk or"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:10:55.440--%3E00:11:00.160
+msgid "staring out the window"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:10:56.799--%3E00:11:03.599
+msgid "whatever step away and spend some time"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:11:00.159--%3E00:11:06.719
+msgid "contemplating metaphors or stories"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:11:03.600--%3E00:11:09.759
+msgid "that will help you explain that idea"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:11:06.720--%3E00:11:12.639
+msgid "then practice and iterate"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:11:09.759--%3E00:11:14.159
+msgid "go have conversations go see how those"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:11:12.639--%3E00:11:17.838
+msgid "metaphors land"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:11:14.159--%3E00:11:20.319
+msgid "and see if they work out okay finally"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:17.839--%3E00:11:21.600
+msgid "make sure to keep your goals in mind one"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:11:20.320--%3E00:11:24.320
+msgid "of mine is increased"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:21.600--%3E00:11:25.440
+msgid "agency i want more people to be able to"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:24.320--%3E00:11:27.680
+msgid "do more things"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:25.440--%3E00:11:29.040
+msgid "to be able to make their visions come to"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:27.679--%3E00:11:31.278
+msgid "reality"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:29.039--%3E00:11:32.559
+msgid "for another way to think about goals and"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:11:31.278--%3E00:11:34.000
+msgid "why this matters"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:32.559--%3E00:11:35.919
+msgid "let's take a look at what josh was"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:34.000--%3E00:11:37.919
+msgid "saying a couple weeks ago on the afrofin"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:35.919--%3E00:11:39.599
+msgid "lab podcast check it out like you're"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:37.919--%3E00:11:41.039
+msgid "understanding right now because i"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:11:39.600--%3E00:11:42.320
+msgid "believe you're going to go back and do"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:11:41.039--%3E00:11:43.919
+msgid "some more research"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:42.320--%3E00:11:45.680
+msgid "and trust me you start talking to your"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:11:43.919--%3E00:11:47.919
+msgid "friend about this thing so that's how it"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:11:45.679--%3E00:11:50.559
+msgid "starts right each one reach one right"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:47.919--%3E00:11:51.199
+msgid "so you need to go back and people need"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:11:50.559--%3E00:11:54.559
+msgid "to start"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:11:51.200--%3E00:11:56.879
+msgid "hearing and learning about this in uh"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:54.559--%3E00:11:57.838
+msgid "you know the topic for i mean part of"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:11:56.879--%3E00:11:59.759
+msgid "our motto is"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:57.839--%3E00:12:01.519
+msgid "make this crypto nonsense make sense"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:11:59.759--%3E00:12:03.360
+msgid "people need to start making this"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:12:01.519--%3E00:12:05.440
+msgid "crypto nonsense make sense to their"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:12:03.360--%3E00:12:06.240
+msgid "friends and that is the beginning of the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:05.440--%3E00:12:09.600
+msgid "revolution and"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:12:06.240--%3E00:12:12.480
+msgid "adoption of blockchain technology and"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:12:09.600--%3E00:12:13.120
+msgid "also that is the first step that needs"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:12:12.480--%3E00:12:16.240
+msgid "to happen"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:12:13.120--%3E00:12:19.278
+msgid "before we can gradually uh"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:16.240--%3E00:12:20.959
+msgid "subliminally collect power from these"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:19.278--%3E00:12:23.439
+msgid "power grabbers"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:12:20.958--%3E00:12:24.638
+msgid "yes josh you see this is why you're a"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:23.440--%3E00:12:27.839
+msgid "great teacher"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:24.639--%3E00:12:29.519
+msgid "you see you have this big grand vision"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:12:27.839--%3E00:12:30.880
+msgid "for the problems we're gonna solve"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:29.519--%3E00:12:34.480
+msgid "what's the problem"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:30.879--%3E00:12:35.759
+msgid "centralization power how centralized"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:34.480--%3E00:12:38.800
+msgid "power can corrupt"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:35.759--%3E00:12:40.319
+msgid "people okay we all want to undo that we"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:38.799--%3E00:12:43.519
+msgid "all want to push back against"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:40.320--%3E00:12:44.639
+msgid "that but how well you named it we got to"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:12:43.519--%3E00:12:47.278
+msgid "take our first"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:12:44.639--%3E00:12:48.079
+msgid "step we have to have conversations with"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:12:47.278--%3E00:12:50.480
+msgid "our friends"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:48.078--%3E00:12:52.799
+msgid "we have to get the word out there and"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:12:50.480--%3E00:12:55.759
+msgid "it's slow work but we can help people"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:52.799--%3E00:12:57.679
+msgid "understand this one of the things that"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:12:55.759--%3E00:12:59.039
+msgid "helps people gain understanding like"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:57.679--%3E00:13:02.559
+msgid "i've already mentioned"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:12:59.039--%3E00:13:03.759
+msgid "is metaphors and stories now using"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:02.559--%3E00:13:06.319
+msgid "metaphors takes"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:13:03.759--%3E00:13:08.078
+msgid "practice and that's why again"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:13:06.320--%3E00:13:11.040
+msgid "conversations and planning are"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:13:08.078--%3E00:13:14.159
+msgid "iterative let's take a listen to sydney"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:13:11.039--%3E00:13:16.399
+msgid "from that same episode of the podcast"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:14.159--%3E00:13:18.078
+msgid "using a metaphor that he leans on quite"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:13:16.399--%3E00:13:22.399
+msgid "often"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:13:18.078--%3E00:13:24.958
+msgid "you know what joshua said is um"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:22.399--%3E00:13:25.839
+msgid "you you i don't know i can't say what"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:24.958--%3E00:13:28.239
+msgid "people on this"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:13:25.839--%3E00:13:30.480
+msgid "call know and don't know i'm not sure"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:28.240--%3E00:13:32.159
+msgid "who's an auto mechanic here and knows"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:13:30.480--%3E00:13:35.440
+msgid "how an engine works"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:13:32.159--%3E00:13:38.399
+msgid "um but clearly i think that everyone"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:13:35.440--%3E00:13:40.800
+msgid "on the call has driven a car before um"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:13:38.399--%3E00:13:41.360
+msgid "so you don't need to know how the engine"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:40.799--%3E00:13:44.078
+msgid "works"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:41.360--%3E00:13:45.199
+msgid "in order to get in and turn the key and"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:44.078--%3E00:13:47.679
+msgid "use the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:13:45.198--%3E00:13:50.159
+msgid "brake and the gas pedals can you tell"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:13:47.679--%3E00:13:53.039
+msgid "that sydney has had a chance to practice"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:13:50.159--%3E00:13:54.159
+msgid "using this metaphor of engines in"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:53.039--%3E00:13:56.240
+msgid "automobiles"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:54.159--%3E00:13:57.278
+msgid "and how it applies to the inner workings"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:56.240--%3E00:13:59.519
+msgid "of blockchain"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:57.278--%3E00:14:00.958
+msgid "okay in that particular conversation he"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:13:59.519--%3E00:14:03.278
+msgid "was applying it"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:00.958--%3E00:14:04.239
+msgid "to questions that we had about mass"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:03.278--%3E00:14:06.559
+msgid "adoption"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:04.240--%3E00:14:08.560
+msgid "right but that metaphor could also work"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:06.559--%3E00:14:10.239
+msgid "in a one-on-one conversation with a"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:08.559--%3E00:14:12.719
+msgid "newcomer to cardano"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:10.240--%3E00:14:14.959
+msgid "and when you practice using metaphors"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:12.720--%3E00:14:17.519
+msgid "when you see how they fall"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:14.958--%3E00:14:18.879
+msgid "then you have more and more experience"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:17.519--%3E00:14:22.078
+msgid "and you can apply them"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:14:18.879--%3E00:14:24.320
+msgid "with more nuance to any conversation"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:22.078--%3E00:14:26.000
+msgid "that you hit on all right so now i'm"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:24.320--%3E00:14:27.440
+msgid "going to show me being kind of awkward"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:26.000--%3E00:14:29.039
+msgid "with a metaphor this was something that"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:27.440--%3E00:14:31.279
+msgid "i thought of for the first time"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:29.039--%3E00:14:33.198
+msgid "and i probably wouldn't say it the same"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:31.278--%3E00:14:34.958
+msgid "way check it out"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:33.198--%3E00:14:37.359
+msgid "i just got this image as you were"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:34.958--%3E00:14:38.958
+msgid "speaking of like a tide"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:37.360--%3E00:14:40.800
+msgid "just sort of like you know and like"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:38.958--%3E00:14:42.799
+msgid "people who are like in power like"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:40.799--%3E00:14:44.159
+msgid "standing in front of the tide like oh no"
+msgstr ""
+
+#. visible for 1 seconds
+#: 00:14:42.799--%3E00:14:44.559
+msgid "this isn't going to happen but they're"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:44.159--%3E00:14:48.078
+msgid "like"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:14:44.559--%3E00:14:50.479
+msgid "literally just like a wave just"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:48.078--%3E00:14:51.679
+msgid "because it's it's coming i feel like"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:50.480--%3E00:14:54.720
+msgid "we're in a time"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:14:51.679--%3E00:14:55.278
+msgid "and a place globally right now where"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:54.720--%3E00:14:59.040
+msgid "it's like"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:14:55.278--%3E00:15:01.039
+msgid "people are i think people"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:14:59.039--%3E00:15:03.198
+msgid "i think there's a lot of like a lot of"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:01.039--%3E00:15:05.679
+msgid "feeling of"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:03.198--%3E00:15:07.198
+msgid "this this sense of you know you're"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:05.679--%3E00:15:08.799
+msgid "you're you're a government"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:07.198--%3E00:15:10.719
+msgid "you're meant to be here for us and if"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:08.799--%3E00:15:12.719
+msgid "you're not here for us then"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:10.720--%3E00:15:13.839
+msgid "you know we need to be here for"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:15:12.720--%3E00:15:15.680
+msgid "ourselves and i"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:13.839--%3E00:15:17.040
+msgid "you know that's uh that's one of the"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:15:15.679--%3E00:15:18.479
+msgid "things that hooks me when it comes to"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:17.039--%3E00:15:20.799
+msgid "blockchain and like this whole idea of"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:18.480--%3E00:15:22.639
+msgid "decentralizing it and making it about"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:20.799--%3E00:15:24.159
+msgid "what are the needs that we have what the"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:15:22.639--%3E00:15:28.720
+msgid "problems that we have"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:24.159--%3E00:15:28.719
+msgid "like putting tools in people's hands"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:28.879--%3E00:15:33.519
+msgid "that's it add that to the to the"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:15:31.278--%3E00:15:36.799
+msgid "metaphor right we're trying to hand out"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:33.519--%3E00:15:38.000
+msgid "as many dingy boats and scuba gear and"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:36.799--%3E00:15:40.719
+msgid "all the things so that"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:38.000--%3E00:15:41.679
+msgid "so that all of us can be safe in that"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:40.720--%3E00:15:44.160
+msgid "wave right"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:41.679--%3E00:15:46.078
+msgid "it's happening but we need we need"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:44.159--%3E00:15:49.039
+msgid "people to understand that it's coming"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:15:46.078--%3E00:15:51.359
+msgid "yikes well i mean aziza's metaphor was"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:15:49.039--%3E00:15:54.159
+msgid "great this tidal wave coming over"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:51.360--%3E00:15:56.240
+msgid "all of us changing the world right and"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:54.159--%3E00:15:58.078
+msgid "you could extend that one if you want to"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:15:56.240--%3E00:16:00.560
+msgid "and i got so excited about it that i"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:15:58.078--%3E00:16:01.198
+msgid "jumped in with dingy boats and scuba"
+msgstr ""
+
+#. visible for 1 seconds
+#: 00:16:00.559--%3E00:16:02.399
+msgid "gear i"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:01.198--%3E00:16:04.479
+msgid "you know i don't know if i would say it"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:16:02.399--%3E00:16:06.480
+msgid "the same way as that again"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:04.480--%3E00:16:08.159
+msgid "right but that's the whole point when we"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:16:06.480--%3E00:16:11.039
+msgid "have conversations"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:08.159--%3E00:16:11.919
+msgid "we have a chance to practice the way we"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:11.039--%3E00:16:14.719
+msgid "say things"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:16:11.919--%3E00:16:16.319
+msgid "to practice the way things resonate and"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:14.720--%3E00:16:17.839
+msgid "you know i probably certainly wouldn't"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:16.320--%3E00:16:20.079
+msgid "say it the same way as"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:17.839--%3E00:16:20.880
+msgid "that again but i do need to go for a"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:20.078--%3E00:16:23.278
+msgid "walk"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:20.879--%3E00:16:24.559
+msgid "and think about well what are the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:16:23.278--%3E00:16:27.679
+msgid "metaphors"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:16:24.559--%3E00:16:31.039
+msgid "how how are we helping people"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:16:27.679--%3E00:16:32.479
+msgid "navigate this wave of of new things"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:31.039--%3E00:16:34.838
+msgid "that's happening"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:32.480--%3E00:16:36.320
+msgid "now the only way to do that is through"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:16:34.839--%3E00:16:37.360
+msgctxt "00:16:34.839-->00:16:37.360"
+msgid "conversations"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:16:36.320--%3E00:16:40.720
+msgid "and we're going to cover that in the"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:16:37.360--%3E00:16:40.720
+msgid "next part of this starter kit"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:16:45.440--%3E00:16:49.680
+msgid "one of the things i've learned in my"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:16:48.078--%3E00:16:53.359
+msgid "teaching career"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:16:49.679--%3E00:16:54.879
+msgid "is that the more broadly i prepare for a"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:16:53.360--%3E00:16:58.480
+msgid "lesson"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:16:54.879--%3E00:17:02.000
+msgid "the more able i am during that lesson to"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:16:58.480--%3E00:17:03.600
+msgid "really engage with people if i'm not"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:17:02.000--%3E00:17:04.160
+msgid "prepared i might just have a quick"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:17:03.600--%3E00:17:05.759
+msgid "script"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:17:04.160--%3E00:17:08.640
+msgid "to read and want to get through the"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:17:05.759--%3E00:17:11.439
+msgid "points that i want to say"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:17:08.640--%3E00:17:13.199
+msgid "but if i'm really prepared if i've done"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:17:11.439--%3E00:17:17.038
+msgid "my research"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:17:13.199--%3E00:17:20.079
+msgid "and practiced thinking about things"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:17:17.038--%3E00:17:21.599
+msgid "then i'm able to be fully present"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:17:20.078--%3E00:17:23.198
+msgid "with the people that i'm trying to help"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:17:21.599--%3E00:17:27.038
+msgid "learn something"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:17:23.199--%3E00:17:29.919
+msgid "okay a great teacher of mine"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:17:27.038--%3E00:17:30.879
+msgid "helped me understand that gentleness"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:17:29.919--%3E00:17:33.120
+msgid "comes from"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:17:30.880--%3E00:17:35.120
+msgid "strength and i've always really"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:17:33.119--%3E00:17:39.038
+msgid "appreciated that lesson"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:17:35.119--%3E00:17:42.079
+msgid "the stronger and more prepared i am"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:17:39.038--%3E00:17:44.079
+msgid "the gentler i'm able to be and speaking"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:17:42.079--%3E00:17:44.798
+msgid "of metaphors this metaphor applies to"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:17:44.079--%3E00:17:48.159
+msgid "both"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:17:44.798--%3E00:17:51.918
+msgid "physical strength being gentle with"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:17:48.160--%3E00:17:54.000
+msgid "heavy delicate objects right"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:17:51.919--%3E00:17:56.400
+msgid "and it also applies to human"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:17:54.000--%3E00:17:59.839
+msgid "relationships"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:17:56.400--%3E00:18:03.200
+msgid "so when we come to conversations"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:17:59.839--%3E00:18:04.519
+msgid "about cardano i think it helps to think"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:18:03.200--%3E00:18:08.160
+msgid "of them as"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:18:04.519--%3E00:18:10.960
+msgctxt "00:18:04.519-->00:18:10.960"
+msgid "problem-based conversations"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:18:08.160--%3E00:18:11.679
+msgid "jaime gossip a famous educator he's"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:18:10.960--%3E00:18:15.519
+msgid "worked at"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:18:11.679--%3E00:18:18.960
+msgid "google and i'll link to a video"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:18:15.519--%3E00:18:21.839
+msgid "that i got this quote from he asks"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:18:18.960--%3E00:18:23.600
+msgid "these three questions what problem do"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:18:21.839--%3E00:18:26.480
+msgid "you want to solve"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:18:23.599--%3E00:18:26.879
+msgid "how do you want to solve that problem"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:18:26.480--%3E00:18:28.880
+msgid "and"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:18:26.880--%3E00:18:31.039
+msgid "what do you need to learn to solve that"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:18:28.880--%3E00:18:34.559
+msgid "problem and he shows"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:18:31.038--%3E00:18:36.798
+msgid "how personal these questions are"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:18:34.558--%3E00:18:38.000
+msgid "not only the question about the problem"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:18:36.798--%3E00:18:41.200
+msgid "we want to solve"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:18:38.000--%3E00:18:42.880
+msgid "but what can i do how do i want to"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:18:41.200--%3E00:18:46.480
+msgid "contribute"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:18:42.880--%3E00:18:48.080
+msgid "that's a very subjective question and"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:18:46.480--%3E00:18:50.640
+msgid "everybody's going to have a different"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:18:48.079--%3E00:18:52.558
+msgid "answer to it that's kind of the beauty"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:18:50.640--%3E00:18:55.840
+msgid "of decentralization"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:18:52.558--%3E00:18:58.319
+msgid "we all have a chance to"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:18:55.839--%3E00:19:01.279
+msgid "and then once you get people to talk"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:18:58.319--%3E00:19:04.399
+msgid "about the problems they want to solve"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:19:01.279--%3E00:19:06.639
+msgid "now we can start asking them okay how"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:19:04.400--%3E00:19:09.600
+msgid "can i help you how can i help you learn"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:19:06.640--%3E00:19:11.120
+msgid "what you need to know in order to do"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:09.599--%3E00:19:12.959
+msgid "that"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:11.119--%3E00:19:14.319
+msgid "now we've been collecting videos from"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:19:12.960--%3E00:19:17.440
+msgid "the community"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:14.319--%3E00:19:18.159
+msgid "about how to talk about cardano and i"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:17.440--%3E00:19:21.120
+msgid "want to share"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:19:18.160--%3E00:19:22.558
+msgid "one of my favorite clips from steve"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:21.119--%3E00:19:24.558
+msgid "aldrich"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:19:22.558--%3E00:19:26.960
+msgid "i'm going to let you see steve drop the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:19:24.558--%3E00:19:28.798
+msgid "mic and then how he continues on because"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:19:26.960--%3E00:19:32.079
+msgid "i think it's a great way"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:19:28.798--%3E00:19:34.639
+msgid "uh to to kind of frame"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:32.079--%3E00:19:35.918
+msgid "why we think about problem and project"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:34.640--%3E00:19:38.080
+msgid "based learning"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:35.919--%3E00:19:39.120
+msgid "and what i mean by problem-based"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:38.079--%3E00:19:41.599
+msgctxt "00:19:38.079-->00:19:41.599"
+msgid "conversations"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:19:39.119--%3E00:19:44.399
+msgid "so here's steve what problem does"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:19:41.599--%3E00:19:47.199
+msgid "cardano solve"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:19:44.400--%3E00:19:50.080
+msgid "what problem do you have in the latest"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:19:47.200--%3E00:19:52.798
+msgid "catalyst funding round we had 126"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:19:50.079--%3E00:19:54.399
+msgid "proposals which are all solving for"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:19:52.798--%3E00:19:57.279
+msgid "different problems"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:54.400--%3E00:19:58.240
+msgid "look blockchain or more specifically"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:19:57.279--%3E00:20:00.879
+msgctxt "00:19:57.279-->00:20:00.879"
+msgid "cardano"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:19:58.240--%3E00:20:02.558
+msgid "is not a solution looking for a problem"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:20:00.880--%3E00:20:05.280
+msgid "nor is it a silver bullet"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:20:02.558--%3E00:20:06.639
+msgid "for all the problems of the world the"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:20:05.279--%3E00:20:08.720
+msgid "fact remains that"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:20:06.640--%3E00:20:10.720
+msgid "financial and governance systems across"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:20:08.720--%3E00:20:11.360
+msgid "the globe are in one way or another"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:20:10.720--%3E00:20:13.038
+msgid "broken"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:20:11.359--%3E00:20:14.959
+msgid "or at least in need of a good cleaning"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:20:13.038--%3E00:20:18.158
+msgid "up if we can"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:20:14.960--%3E00:20:20.480
+msgid "solve for the financial or identity"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:20:18.159--%3E00:20:21.840
+msgid "or governance issues in places where"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:20:20.480--%3E00:20:25.279
+msgid "these are a problem"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:20:21.839--%3E00:20:27.918
+msgid "then we have a successful project"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:20:25.279--%3E00:20:29.119
+msgid "if that then grows outward to solve"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:20:27.919--%3E00:20:31.038
+msgid "other problems"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:20:29.119--%3E00:20:32.319
+msgid "which maybe we can't even comprehend"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:20:31.038--%3E00:20:35.440
+msgid "today"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:20:32.319--%3E00:20:36.558
+msgid "well that's just groovy steve thank you"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:20:35.440--%3E00:20:38.880
+msgid "for that"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:20:36.558--%3E00:20:40.240
+msgid "and for everybody out there looking to"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:20:38.880--%3E00:20:43.440
+msgid "start conversations"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:20:40.240--%3E00:20:46.240
+msgid "that's really all you have to say what"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:20:43.440--%3E00:20:48.480
+msgid "problem do you have"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:20:46.240--%3E00:20:51.759
+msgid "now what i really like about what steve"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:20:48.480--%3E00:20:54.720
+msgid "shares there is how he continues on"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:20:51.759--%3E00:20:56.480
+msgid "to talk about how solving one set of"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:20:54.720--%3E00:21:00.240
+msgctxt "00:20:54.720-->00:21:00.240"
+msgid "problems"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:20:56.480--%3E00:21:02.960
+msgid "opens up the door to solve more problems"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:00.240--%3E00:21:04.000
+msgid "this idea of incremental growth and"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:02.960--%3E00:21:06.480
+msgid "iteration"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:04.000--%3E00:21:07.759
+msgid "once we build habits of solving problems"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:21:06.480--%3E00:21:10.720
+msgid "together"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:07.759--%3E00:21:11.519
+msgid "once we practice talking about them then"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:10.720--%3E00:21:14.000
+msgid "we can address"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:11.519--%3E00:21:14.879
+msgid "even bigger problems some of which like"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:14.000--%3E00:21:17.919
+msgid "steve says"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:21:14.880--%3E00:21:19.600
+msgid "we haven't even imagined yet"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:21:17.919--%3E00:21:22.559
+msgid "so think back to some of that teaching"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:21:19.599--%3E00:21:25.519
+msgid "terminology i shared with you earlier"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:21:22.558--%3E00:21:27.038
+msgid "how can you treat conversations as"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:25.519--%3E00:21:29.119
+msgid "formative assessments"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:27.038--%3E00:21:30.158
+msgid "and based on what you learned from"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:29.119--%3E00:21:32.158
+msgid "people"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:30.159--%3E00:21:33.440
+msgid "how can you scaffold for your friends"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:21:32.159--%3E00:21:37.760
+msgid "and your family"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:21:33.440--%3E00:21:39.759
+msgid "how to help them learn the next thing"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:37.759--%3E00:21:41.440
+msgid "how well are you bringing people into"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:39.759--%3E00:21:43.679
+msgid "these conversations"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:41.440--%3E00:21:45.038
+msgid "is your focus really on helping people"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:43.679--%3E00:21:46.798
+msgid "learn"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:45.038--%3E00:21:48.640
+msgid "or do you just want to tell people how"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:46.798--%3E00:21:50.720
+msgid "great cardano is"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:48.640--%3E00:21:51.679
+msgid "all right all of us that's what our"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:21:50.720--%3E00:21:53.600
+msgid "community is for"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:51.679--%3E00:21:55.280
+msgid "come on anytime we could talk about how"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:53.599--%3E00:21:56.639
+msgid "much we love this project and"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:21:55.279--%3E00:21:58.319
+msgid "what we think it's going to do but when"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:21:56.640--%3E00:22:01.120
+msgid "it comes to talking about"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:21:58.319--%3E00:22:03.038
+msgctxt "00:21:58.319-->00:22:03.038"
+msgid "cardano with your friends and family"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:22:01.119--%3E00:22:05.038
+msgid "please focus on learning"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:22:03.038--%3E00:22:06.240
+msgid "please focus on what people understand"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:22:05.038--%3E00:22:07.440
+msgid "so far"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:22:06.240--%3E00:22:09.599
+msgid "and how you're going to help them"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:07.440--%3E00:22:12.240
+msgid "understand what's next"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:22:09.599--%3E00:22:13.519
+msgid "we're not in charge because we're not"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:22:12.240--%3E00:22:15.440
+msgid "here just to"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:13.519--%3E00:22:17.679
+msgid "talk about what we want to talk about we"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:15.440--%3E00:22:20.400
+msgid "got to meet people where they're at"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:17.679--%3E00:22:22.480
+msgid "again remember this is iterative work"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:20.400--%3E00:22:24.720
+msgid "and it's not about you digesting all"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:22:22.480--%3E00:22:27.839
+msgid "this information that's out there"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:22:24.720--%3E00:22:32.400
+msgid "it's about how well you're prepared"
+msgstr ""
+
+#. visible for 8 seconds
+#: 00:22:27.839--%3E00:22:36.000
+msgid "to help people understand things so"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:32.400--%3E00:22:37.200
+msgid "this task is easy go have a conversation"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:36.000--%3E00:22:40.319
+msgid "and while you're having that"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:37.200--%3E00:22:42.159
+msgid "conversation think about what problems"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:22:40.319--%3E00:22:44.240
+msgid "people are naming"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:42.159--%3E00:22:46.320
+msgid "think about what metaphors might help"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:44.240--%3E00:22:48.240
+msgid "and maybe try using some of the ones"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:22:46.319--%3E00:22:50.158
+msgid "you've brainstormed"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:22:48.240--%3E00:22:51.919
+msgid "and as you reflect on the conversation"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:50.159--%3E00:22:54.559
+msgid "you'll think of new ways that you might"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:22:51.919--%3E00:22:58.000
+msgid "need to develop for explaining things"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:22:54.558--%3E00:23:00.960
+msgid "what questions came up and then"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:22:58.000--%3E00:23:02.960
+msgid "if you want to come reflect uh with with"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:23:00.960--%3E00:23:05.519
+msgid "the rest of us in discord"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:02.960--%3E00:23:06.720
+msgid "you'll see a link in in the materials"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:23:05.519--%3E00:23:10.240
+msgid "accompanying"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:23:06.720--%3E00:23:12.319
+msgid "this video come pop into discord"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:10.240--%3E00:23:14.159
+msgid "share questions that stump to you or you"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:12.319--%3E00:23:16.079
+msgid "found particularly interesting"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:14.159--%3E00:23:17.280
+msgid "share metaphors that you're proud of"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:23:16.079--%3E00:23:18.960
+msgid "using uh"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:17.279--%3E00:23:20.480
+msgid "and if you you know if you put your foot"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:23:18.960--%3E00:23:21.200
+msgid "in your mouth and you want to talk about"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:23:20.480--%3E00:23:23.200
+msgid "that too"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:23:21.200--%3E00:23:25.840
+msgid "we'd love to hear that i do it all the"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:23:23.200--%3E00:23:28.720
+msgid "time i'm probably doing it in this video"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:23:25.839--%3E00:23:31.119
+msgid "um but this is our practice right this"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:23:28.720--%3E00:23:34.400
+msgid "is how we learn and grow together"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:23:31.119--%3E00:23:36.239
+msgid "now optionally for this part i was"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:23:34.400--%3E00:23:38.480
+msgid "really moved um"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:36.240--%3E00:23:40.079
+msgid "by frederick greygards i hope i'm saying"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:23:38.480--%3E00:23:43.120
+msgid "his name right um the new"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:23:40.079--%3E00:23:45.359
+msgid "cardano foundation ceo i listened to a"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:43.119--%3E00:23:46.798
+msgid "30-minute interview of him on the crypto"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:45.359--%3E00:23:49.278
+msgid "valley podcast"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:46.798--%3E00:23:50.400
+msgid "and i was really impressed i really"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:23:49.278--%3E00:23:53.679
+msgid "admired"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:23:50.400--%3E00:23:55.278
+msgid "the way he was framing questions about"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:23:53.679--%3E00:23:58.080
+msgid "cardano adoption"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:23:55.278--%3E00:23:59.359
+msgid "from a problem-based standpoint and i"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:23:58.079--%3E00:24:00.960
+msgid "would really recommend"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:23:59.359--%3E00:24:02.399
+msgid "i was talking before about choosing"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:24:00.960--%3E00:24:04.400
+msgid "quality content"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:02.400--%3E00:24:06.400
+msgid "i would definitely recommend this as"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:24:04.400--%3E00:24:09.919
+msgid "really high quality content"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:24:06.400--%3E00:24:11.440
+msgid "really interesting uh to a hear that"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:24:09.919--%3E00:24:13.840
+msgid "cardano foundation is in"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:24:11.440--%3E00:24:15.038
+msgid "is in good hands uh as far as what i'm"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:24:13.839--%3E00:24:18.959
+msgid "hearing there"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:24:15.038--%3E00:24:22.079
+msgid "um but that he's got such a great grasp"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:18.960--%3E00:24:23.200
+msgid "on approaching these conversations from"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:22.079--%3E00:24:26.558
+msgid "a problem-based"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:24:23.200--%3E00:24:28.400
+msgid "perspective all right so next we're"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:24:26.558--%3E00:24:29.599
+msgid "gonna spend a few minutes going out into"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:24:28.400--%3E00:24:33.840
+msgid "the real world"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:29.599--%3E00:24:33.839
+msgid "and getting some ada into people's hands"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:37.759--%3E00:24:42.240
+msgid "hey everybody james here i'm from"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:24:40.400--%3E00:24:43.519
+msgid "workshop navy and we're filming a"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:42.240--%3E00:24:46.558
+msgctxt "00:24:42.240-->00:24:46.558"
+msgid "starter kit"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:24:43.519--%3E00:24:49.200
+msgid "here on the corner of franklin street"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:46.558--%3E00:24:50.798
+msgid "in worcester massachusetts this is my"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:49.200--%3E00:24:53.840
+msgid "buddy adam"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:24:50.798--%3E00:24:56.720
+msgid "adam created the workshop maybe logo"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:53.839--%3E00:24:58.000
+msgid "and i'm going to use my urroy wallet to"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:24:56.720--%3E00:25:00.159
+msgid "pay him for it"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:24:58.000--%3E00:25:02.000
+msgid "right now adam you got your oil"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:25:00.159--%3E00:25:03.840
+msgid "installed oh absolutely man yes when did"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:25:02.000--%3E00:25:04.798
+msgid "you download it uh a couple days ago all"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:25:03.839--%3E00:25:07.519
+msgid "right so you got a"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:04.798--%3E00:25:08.798
+msgid "is it empty zero data no ada yet all"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:25:07.519--%3E00:25:11.278
+msgid "right we're going to pay adam we're"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:08.798--%3E00:25:13.679
+msgid "going to get them into the ada ecosystem"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:11.278--%3E00:25:15.519
+msgid "uh using ada so i'm going to open up my"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:13.679--%3E00:25:18.480
+msgid "euro wallet"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:15.519--%3E00:25:19.519
+msgid "i'm going to get my send screen open got"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:18.480--%3E00:25:23.440
+msgid "a qr code"
+msgstr ""
+
+#. visible for 9 seconds
+#: 00:25:19.519--%3E00:25:29.038
+msgid "nice i'm going to scan that here we go"
+msgstr ""
+
+#. visible for 8 seconds
+#: 00:25:23.440--%3E00:25:32.159
+msgid "scan type in the amount"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:25:29.038--%3E00:25:36.319
+msgid "type in my spending password"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:25:32.159--%3E00:25:38.480
+msgid "and go all right i hope this works"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:25:36.319--%3E00:25:39.359
+msgid "thanks james you bet now did it show up"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:38.480--%3E00:25:42.640
+msgid "yet"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:25:39.359--%3E00:25:46.158
+msgid "it might take a couple seconds here"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:25:42.640--%3E00:25:48.240
+msgid "there it is i got it all right awesome"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:25:46.159--%3E00:25:49.679
+msgid "um how does it feel to be holding ada in"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:48.240--%3E00:25:52.720
+msgid "your hands i'm stoked about it"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:25:49.679--%3E00:25:55.120
+msgid "this is so exciting all right"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:25:52.720--%3E00:25:56.240
+msgid "so yo all we want to do is encourage"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:25:55.119--%3E00:25:58.158
+msgid "people hey think about"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:56.240--%3E00:26:00.319
+msgid "opportunities to use this in your"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:25:58.159--%3E00:26:02.480
+msgid "day-to-day life now we got"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:26:00.319--%3E00:26:03.839
+msgid "adam on board here actually your name is"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:02.480--%3E00:26:07.120
+msgid "so much like ada"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:26:03.839--%3E00:26:09.759
+msgid "it is interesting okay we got ada adam"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:07.119--%3E00:26:11.199
+msgid "in the house we got ryan behind the the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:09.759--%3E00:26:13.759
+msgid "screen here"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:11.200--%3E00:26:15.840
+msgid "ryan's got these these really cool ada"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:13.759--%3E00:26:18.640
+msgid "coins he just printed one for me on a"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:15.839--%3E00:26:20.639
+msgid "on a 3d printer so lots of exciting"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:26:18.640--%3E00:26:22.320
+msgid "stuff happening around here"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:26:20.640--%3E00:26:23.600
+msgid "adam thanks for coming out tonight no"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:26:22.319--%3E00:26:24.879
+msgid "problem man and uh we'll talk to"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:26:23.599--%3E00:26:28.639
+msgid "everybody soon"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:26:24.880--%3E00:26:30.799
+msgid "all right so in terms of real world use"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:28.640--%3E00:26:32.799
+msgid "just sending a little bit of ada back"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:26:30.798--%3E00:26:36.000
+msgid "and forth between wallets"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:32.798--%3E00:26:36.798
+msgid "is about the extent of what most people"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:36.000--%3E00:26:40.319
+msgid "can do"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:26:36.798--%3E00:26:42.720
+msgid "right now okay that's all right"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:26:40.319--%3E00:26:43.918
+msgid "there's a lot more functionality coming"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:26:42.720--%3E00:26:46.079
+msgid "out"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:26:43.919--%3E00:26:47.759
+msgid "the middle of next year gogin is going"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:26:46.079--%3E00:26:49.839
+msgid "to be fully released"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:26:47.759--%3E00:26:51.119
+msgid "we're going to be able to use it in the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:49.839--%3E00:26:54.240
+msgid "coming months"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:26:51.119--%3E00:26:56.639
+msgid "as parts of it go online"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:54.240--%3E00:26:58.558
+msgid "we want to have chances to play with it"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:26:56.640--%3E00:27:00.960
+msgid "to see what we can do with it"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:26:58.558--%3E00:27:02.319
+msgid "and that's why cardano starter kits"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:27:00.960--%3E00:27:04.558
+msgid "exist"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:02.319--%3E00:27:06.480
+msgid "listen i really don't want to be the"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:27:04.558--%3E00:27:07.038
+msgid "face and the voice of cardano starter"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:27:06.480--%3E00:27:09.919
+msgid "kits"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:07.038--%3E00:27:11.119
+msgid "i love doing this i love sharing my own"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:27:09.919--%3E00:27:13.759
+msgid "perspective"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:27:11.119--%3E00:27:14.558
+msgid "but i'm really hoping if i if i do this"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:27:13.759--%3E00:27:15.839
+msgctxt "00:27:13.759-->00:27:15.839"
+msgid "right"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:14.558--%3E00:27:18.879
+msgid "other people are going to want to"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:27:15.839--%3E00:27:22.398
+msgid "contribute too and that means you"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:27:18.880--%3E00:27:25.520
+msgid "if if you find this question of how"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:27:22.398--%3E00:27:27.599
+msgid "local use will contribute to the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:25.519--%3E00:27:30.319
+msgid "adoption of cardano"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:27.599--%3E00:27:31.678
+msgid "please be in touch i know this isn't the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:30.319--%3E00:27:34.398
+msgid "whole story"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:31.679--%3E00:27:36.240
+msgid "there's really important work going on"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:34.398--%3E00:27:39.199
+msgid "the enterprise level"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:27:36.240--%3E00:27:39.919
+msgid "there's really incredible work being"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:27:39.200--%3E00:27:42.558
+msgid "done around"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:27:39.919--%3E00:27:43.679
+msgid "oracle pools and decentralized"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:42.558--%3E00:27:46.960
+msgid "identities"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:27:43.679--%3E00:27:50.640
+msgid "and all of that is so important"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:27:46.960--%3E00:27:54.319
+msgid "it's ground breaking"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:27:50.640--%3E00:27:56.399
+msgid "alongside that let's also address these"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:54.319--%3E00:27:59.038
+msgid "questions of local adoption"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:27:56.398--%3E00:28:00.558
+msgid "all right if you want to get involved"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:27:59.038--%3E00:28:02.798
+msgid "there's a discord link"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:00.558--%3E00:28:04.480
+msgid "to accompany this starter kit where you"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:28:02.798--%3E00:28:07.038
+msgid "can come talk about"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:28:04.480--%3E00:28:09.200
+msgid "the ideas in this starter kit your own"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:28:07.038--%3E00:28:11.200
+msgid "experiences with implementation"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:09.200--%3E00:28:12.720
+msgid "but you can also start to participate in"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:28:11.200--%3E00:28:13.519
+msgid "some of the bigger conversations we're"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:28:12.720--%3E00:28:15.519
+msgid "having"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:13.519--%3E00:28:17.038
+msgid "we would love to have you there all"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:15.519--%3E00:28:19.038
+msgctxt "00:28:15.519-->00:28:19.038"
+msgid "right"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:17.038--%3E00:28:20.640
+msgid "there's one more part of this starter"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:19.038--%3E00:28:22.398
+msgid "kit part four"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:20.640--%3E00:28:24.320
+msgid "i'm going to release it in a separate"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:22.398--%3E00:28:26.000
+msgid "video you'll see the links in the"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:24.319--%3E00:28:28.158
+msgid "documentation here"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:26.000--%3E00:28:29.839
+msgid "where we dive into marlow a little bit"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:28.159--%3E00:28:31.760
+msgid "and there's another call to action there"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:28:29.839--%3E00:28:35.519
+msgid "with a project you can do"
+msgstr ""
+
+#. visible for 8 seconds
+#: 00:28:31.759--%3E00:28:39.759
+msgid "um it's really exciting the vision"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:28:35.519--%3E00:28:41.839
+msgid "of the iohk team around marlow"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:39.759--%3E00:28:42.960
+msgid "i was just watching the october"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:28:41.839--%3E00:28:46.558
+msgid "development update"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:28:42.960--%3E00:28:48.798
+msgid "earlier today and just to see"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:46.558--%3E00:28:49.678
+msgid "that team talking about how this is a"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:28:48.798--%3E00:28:53.440
+msgid "tool"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:28:49.679--%3E00:28:54.960
+msgid "they want to put in everybody's hands"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:28:53.440--%3E00:28:56.720
+msgid "that's what we're here for that's what"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:28:54.960--%3E00:28:59.440
+msgid "gets me up in the morning and i"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:28:56.720--%3E00:29:00.960
+msgid "really i'm so thrilled to try to"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:28:59.440--%3E00:29:05.038
+msgid "contribute to that work"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:00.960--%3E00:29:05.038
+msgid "all right invite you to do the same"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:05.119--%3E00:29:09.199
+msgid "the action step for part three go out in"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:29:08.319--%3E00:29:12.079
+msgid "your community"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:29:09.200--%3E00:29:12.880
+msgid "help somebody get hands-on with cardano"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:12.079--%3E00:29:17.038
+msgid "okay"
+msgstr ""
+
+#. visible for 7 seconds
+#: 00:29:12.880--%3E00:29:20.080
+msgid "it's challenging uh to buy ada right now"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:29:17.038--%3E00:29:22.960
+msgid "okay so like i did i i"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:20.079--%3E00:29:24.720
+msgid "had adam design a logo for me and i"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:22.960--%3E00:29:27.200
+msgid "asked him hey can i pay you an ada"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:24.720--%3E00:29:28.960
+msgid "and he was fine with that so i did now"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:27.200--%3E00:29:31.600
+msgid "he's got some ada in his wallet"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:28.960--%3E00:29:33.759
+msgid "he now he can feel what it's like and"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:31.599--%3E00:29:35.759
+msgid "maybe eventually he'll purchase his own"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:33.759--%3E00:29:38.000
+msgid "maybe he'll use the ada i gave him to"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:35.759--%3E00:29:40.240
+msgid "stake it and he'll find out what that's"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:29:38.000--%3E00:29:41.440
+msgid "what that's like right maybe he'll pay"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:40.240--%3E00:29:44.399
+msgid "somebody else"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:29:41.440--%3E00:29:45.200
+msgid "this is how we drive adoption right we"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:29:44.398--%3E00:29:46.959
+msgid "just start"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:29:45.200--%3E00:29:48.240
+msgid "getting the the idea out there and"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:46.960--%3E00:29:51.919
+msgid "people start to say"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:48.240--%3E00:29:53.038
+msgid "ah okay i see right there's gonna be a"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:29:51.919--%3E00:29:55.038
+msgid "lot more ways"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:29:53.038--%3E00:29:56.480
+msgid "to get hands-on with cardano in the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:55.038--%3E00:29:59.519
+msgid "years to come"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:29:56.480--%3E00:30:00.960
+msgid "for now let's jump in"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:29:59.519--%3E00:30:02.879
+msgid "so to close out we're going to go back"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:00.960--%3E00:30:05.038
+msgid "to this question about having"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:02.880--%3E00:30:07.840
+msgctxt "00:30:02.880-->00:30:07.840"
+msgid "problem-based conversations"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:30:05.038--%3E00:30:10.158
+msgid "i'm going to let sydney take us home in"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:07.839--%3E00:30:11.839
+msgid "this story he tells"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:30:10.159--%3E00:30:14.000
+msgid "about a conversation he was having with"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:11.839--%3E00:30:16.079
+msgid "his brother so thank you so much for"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:30:14.000--%3E00:30:17.759
+msgid "spending this time with me today"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:30:16.079--%3E00:30:19.678
+msgid "make sure to check out part four if"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:30:17.759--%3E00:30:20.640
+msgid "you're interested in learning more about"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:19.679--%3E00:30:23.840
+msgid "marlow"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:20.640--%3E00:30:25.360
+msgid "and i'll see you soon take care i mean i"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:30:23.839--%3E00:30:27.519
+msgid "don't know how these things will happen"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:25.359--%3E00:30:29.599
+msgid "i do believe that blockchain will have a"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:27.519--%3E00:30:32.240
+msgid "hand in solving these problems"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:29.599--%3E00:30:34.319
+msgid "um and i was having a conversation just"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:30:32.240--%3E00:30:38.399
+msgid "before our call today"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:30:34.319--%3E00:30:40.720
+msgid "with my brother who is a um"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:38.398--%3E00:30:42.398
+msgid "a police officer for the the memphis"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:30:40.720--%3E00:30:46.000
+msgid "police police department"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:30:42.398--%3E00:30:48.158
+msgid "and his wife who uh manages um"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:30:46.000--%3E00:30:49.440
+msgid "uh nurses for one of the hospitals here"
+msgstr ""
+
+#. visible for 2 seconds
+#: 00:30:48.159--%3E00:30:50.320
+msgid "in memphis and we had this deep"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:49.440--%3E00:30:53.919
+msgid "conversation"
+msgstr ""
+
+#. visible for 6 seconds
+#: 00:30:50.319--%3E00:30:56.319
+msgid "about um how how do we help people"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:30:53.919--%3E00:30:57.360
+msgid "because in the memphis area um there's a"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:30:56.319--%3E00:30:59.678
+msgid "there's a lot of"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:30:57.359--%3E00:31:00.719
+msgid "um there's a lot of things that that"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:30:59.679--%3E00:31:04.000
+msgid "occur"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:31:00.720--%3E00:31:05.679
+msgid "that um uh you know that that"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:31:04.000--%3E00:31:08.640
+msgid "that are hard to deal with a lot of you"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:31:05.679--%3E00:31:10.240
+msgid "know lack of resources a lot of um"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:31:08.640--%3E00:31:12.000
+msgid "violence a lot a lot of those types of"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:31:10.240--%3E00:31:15.200
+msgid "things and i was asking so how do"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:31:12.000--%3E00:31:17.519
+msgid "how do we fix those problems and i was"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:31:15.200--%3E00:31:20.558
+msgid "trying to pull that out of them"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:31:17.519--%3E00:31:23.200
+msgid "because i know um"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:31:20.558--%3E00:31:25.038
+msgid "without a doubt that blockchain will"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:31:23.200--%3E00:31:27.919
+msgid "facilitate"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:31:25.038--%3E00:31:29.440
+msgid "those solutions so whatever they were"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:31:27.919--%3E00:31:31.120
+msgid "what they were telling me about the"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:31:29.440--%3E00:31:33.919
+msgid "problem"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:31:31.119--%3E00:31:34.879
+msgid "i know that we can we can apply their"
+msgstr ""
+
+#. visible for 4 seconds
+#: 00:31:33.919--%3E00:31:38.159
+msgid "solutions"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:31:34.880--%3E00:31:40.799
+msgid "on a blockchain network that will"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:31:38.159--%3E00:31:41.278
+msgid "meet each person individually where they"
+msgstr ""
+
+#. visible for 3 seconds
+#: 00:31:40.798--%3E00:31:44.158
+msgid "are"
+msgstr ""
+
+#. visible for 5 seconds
+#: 00:31:41.278--%3E00:31:46.558
+msgid "and help to resolve these huge problems"
+msgstr ""
+
+#. visible for 16 seconds
+#: 00:31:44.159--%3E00:32:01.039
+msgid "that we've been talking about fixing for"
+msgstr ""
+
+#. visible for 14 seconds
+#: 00:31:46.558--%3E00:32:01.038
+msgid "for centuries now"
+msgstr ""
+
