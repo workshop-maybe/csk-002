@@ -1,0 +1,7 @@
+project_identifier: gl-csk002-video-part1
+base_path: .
+files:
+  - source: /l10n/youtube/subtitles/part1/subs.pot
+    translation: /l10n/youtube/subtitles/part1/%locale_with_underscore%.po
+  - source: /l10n/youtube/subtitles/part2/subs.pot
+    translation: /l10n/youtube/subtitles/part2/%locale_with_underscore%.po
