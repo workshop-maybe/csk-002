@@ -13,5 +13,5 @@ sub2po -P subs2.srt -o subs.pot
 # Generate translated subtitles
 
 ```
-po2sub -t subs.srt es.po es.srt
+po2sub -t subs.srt es_ES.po es_ES.srt
 ```
