@@ -1,4 +1,4 @@
-project_identifier: gl-csk002-video-part1
+project_identifier: gl-csk002
 base_path: .
 files:
   - source: /l10n/youtube/subtitles/part1/subs.pot
