@@ -1,5 +1,5 @@
 # Cardano Starter Kit #002
-## How to talk to your friends and family about Cardano
+## Talking About Cardano
 
 * csk-002.pdf is a two-page document outlining this Cardano Starter Kit
 * csk-002-deck.pdf contains the slides used in accompanying videos
